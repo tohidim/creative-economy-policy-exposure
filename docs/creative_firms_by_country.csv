@@ -1,0 +1,1601 @@
+"iso3","name","wb_region","survey_year","indicator","share_creative","n_creative","share_other","n_other"
+"AFG","Afghanistan","South Asia",2025,"credit",0.150744840105781,92,0.226985603074252,334
+"AFG","Afghanistan","South Asia",2025,"exports",0.103904284414621,92,0.0984765015073394,334
+"AFG","Afghanistan","South Asia",2025,"female_manager",0.416552904520315,92,0.0382475583846135,334
+"AFG","Afghanistan","South Asia",2025,"female_owner",0.428444180078341,92,0.0587836286492594,334
+"AFG","Afghanistan","South Asia",2025,"finance_major",0.464520358920953,92,0.239353992972886,331
+"AFG","Afghanistan","South Asia",2025,"new_product",0.439038782315805,92,0.294505231411443,334
+"AFG","Afghanistan","South Asia",2025,"process",0.117801023927867,92,0.148153950374351,333
+"AFG","Afghanistan","South Asia",2025,"quality_cert",0.13041851927481,92,0.0768951287993137,334
+"AFG","Afghanistan","South Asia",2025,"rnd",0.147043774255315,92,0.28733000425985,334
+"AFG","Afghanistan","South Asia",2025,"website",0.465438101075157,92,0.447240630936317,334
+"AGO","Angola","Sub-Saharan Africa",2024,"credit",0.0569898261294726,36,0.0759325767218104,393
+"AGO","Angola","Sub-Saharan Africa",2024,"exports",0,36,0.0245505214733465,391
+"AGO","Angola","Sub-Saharan Africa",2024,"female_manager",0,36,0.113388659392308,394
+"AGO","Angola","Sub-Saharan Africa",2024,"female_owner",0.102873950010424,36,0.283600848128648,393
+"AGO","Angola","Sub-Saharan Africa",2024,"finance_major",0.678346777662953,36,0.695208218150189,391
+"AGO","Angola","Sub-Saharan Africa",2024,"new_product",0.447180692835362,36,0.255356287978437,394
+"AGO","Angola","Sub-Saharan Africa",2024,"process",0.103782131373353,36,0.0472514149879233,392
+"AGO","Angola","Sub-Saharan Africa",2024,"quality_cert",0.102916433571356,36,0.0438487368320832,394
+"AGO","Angola","Sub-Saharan Africa",2024,"rnd",0.235449263984733,36,0.0887691426691667,394
+"AGO","Angola","Sub-Saharan Africa",2024,"website",0.602923313067509,36,0.337023587952624,394
+"ALB","Albania","Europe & Central Asia",2025,"credit",0.199327325191051,53,0.229368980257438,310
+"ALB","Albania","Europe & Central Asia",2025,"exports",0.46876623472366,53,0.106021416968525,312
+"ALB","Albania","Europe & Central Asia",2025,"female_manager",0.0925605568139093,53,0.19732916334299,311
+"ALB","Albania","Europe & Central Asia",2025,"female_owner",0.115657305850009,53,0.239448452764274,312
+"ALB","Albania","Europe & Central Asia",2025,"finance_major",0.0236689879962372,53,0.0898794764111298,306
+"ALB","Albania","Europe & Central Asia",2025,"new_product",0.218188094276473,53,0.235894266288486,311
+"ALB","Albania","Europe & Central Asia",2025,"process",0.164358342016343,53,0.0879004945787699,311
+"ALB","Albania","Europe & Central Asia",2025,"quality_cert",0.183505828224371,51,0.145413281719731,310
+"ALB","Albania","Europe & Central Asia",2025,"rnd",0.00253528773343835,53,0.0310372431037038,310
+"ALB","Albania","Europe & Central Asia",2025,"website",0.479890497635894,53,0.58932183491259,312
+"ARM","Armenia","Europe & Central Asia",2024,"credit",0.332633626107154,29,0.494765313929172,346
+"ARM","Armenia","Europe & Central Asia",2024,"exports",0.297738742378128,29,0.254639557164325,346
+"ARM","Armenia","Europe & Central Asia",2024,"female_manager",0.11424279043773,29,0.291308203457094,346
+"ARM","Armenia","Europe & Central Asia",2024,"female_owner",0.291568093575839,29,0.278642898126927,346
+"ARM","Armenia","Europe & Central Asia",2024,"finance_major",0.345495333831429,29,0.242850257929403,345
+"ARM","Armenia","Europe & Central Asia",2024,"new_product",0.60176345171007,29,0.286097928378085,346
+"ARM","Armenia","Europe & Central Asia",2024,"process",0.0611977300348855,29,0.143335800262652,346
+"ARM","Armenia","Europe & Central Asia",2024,"quality_cert",0.271599073123227,29,0.199522909241196,335
+"ARM","Armenia","Europe & Central Asia",2024,"rnd",0.441757777978915,29,0.167545287362493,345
+"ARM","Armenia","Europe & Central Asia",2024,"website",0.974938883707966,29,0.671949760434645,346
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"credit",0.312575809778914,3,0.330636354613328,96
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"exports",0,3,0.217798677896992,95
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"female_manager",0,3,0.381556825803272,98
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"female_owner",0,3,0.578742932165052,95
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"finance_major",0,3,0.119723464863983,96
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"new_product",0.687424190221086,3,0.604342082829164,98
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"process",0.687424190221086,3,0.353177543577282,98
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"quality_cert",0,3,0.1370243194433,91
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"rnd",0.323807250617334,3,0.215682924795317,98
+"ATG","Antigua & Barbuda","Latin America & Caribbean",2025,"website",0.676192749382666,3,0.621543495818063,98
+"AUT","Austria","Europe & Central Asia",2025,"credit",0.53059708158077,55,0.677767223920427,543
+"AUT","Austria","Europe & Central Asia",2025,"exports",0.63643471856559,56,0.302031976640284,545
+"AUT","Austria","Europe & Central Asia",2025,"female_manager",0.21022116206745,56,0.186872273505941,545
+"AUT","Austria","Europe & Central Asia",2025,"female_owner",0.328780870507804,56,0.321652000921343,540
+"AUT","Austria","Europe & Central Asia",2025,"finance_major",0.0521362806506597,56,0.194245048628813,545
+"AUT","Austria","Europe & Central Asia",2025,"new_product",0.659745259283421,56,0.386242567717128,545
+"AUT","Austria","Europe & Central Asia",2025,"process",0.421843382886769,56,0.188550196709036,543
+"AUT","Austria","Europe & Central Asia",2025,"quality_cert",0.306119763627166,56,0.308694009061474,543
+"AUT","Austria","Europe & Central Asia",2025,"rnd",0.433105793479704,56,0.198144431977573,544
+"AUT","Austria","Europe & Central Asia",2025,"website",0.94735041105729,56,0.982227186453678,545
+"AZE","Azerbaijan","Europe & Central Asia",2024,"credit",0.579615890611837,15,0.35247191457396,343
+"AZE","Azerbaijan","Europe & Central Asia",2024,"exports",0.501229063176799,15,0.112682301021259,347
+"AZE","Azerbaijan","Europe & Central Asia",2024,"female_manager",0,16,0.0769846567691968,350
+"AZE","Azerbaijan","Europe & Central Asia",2024,"female_owner",0,15,0.101338886517768,350
+"AZE","Azerbaijan","Europe & Central Asia",2024,"finance_major",0.0252249954293046,16,0.0211103828918727,351
+"AZE","Azerbaijan","Europe & Central Asia",2024,"new_product",0.0604897909456275,16,0.321173415145481,347
+"AZE","Azerbaijan","Europe & Central Asia",2024,"process",0.497083456758036,16,0.214814771941782,344
+"AZE","Azerbaijan","Europe & Central Asia",2024,"quality_cert",0.0596760807066964,16,0.16108717208552,321
+"AZE","Azerbaijan","Europe & Central Asia",2024,"rnd",0.0230977664591847,15,0.317756087289035,326
+"AZE","Azerbaijan","Europe & Central Asia",2024,"website",0.566661230883504,16,0.65057655397219,351
+"BDI","Burundi","Sub-Saharan Africa",2025,"credit",0.147124075630628,21,0.254020352701939,138
+"BDI","Burundi","Sub-Saharan Africa",2025,"exports",0.0212319801129491,21,0.0441719946813885,140
+"BDI","Burundi","Sub-Saharan Africa",2025,"female_manager",0,21,0.130363686487201,140
+"BDI","Burundi","Sub-Saharan Africa",2025,"female_owner",0.513019486456168,21,0.462470173374925,140
+"BDI","Burundi","Sub-Saharan Africa",2025,"finance_major",0.31587247728638,21,0.247791751432678,140
+"BDI","Burundi","Sub-Saharan Africa",2025,"new_product",0.0295323855868175,21,0.102730624485214,139
+"BDI","Burundi","Sub-Saharan Africa",2025,"process",0.0222977607676864,21,0.169334188707956,139
+"BDI","Burundi","Sub-Saharan Africa",2025,"quality_cert",0,21,0.0158399490651112,140
+"BDI","Burundi","Sub-Saharan Africa",2025,"rnd",0.124232428552648,21,0.0671029910347797,140
+"BDI","Burundi","Sub-Saharan Africa",2025,"website",0.277559824648786,21,0.228218232053664,140
+"BEL","Belgium","Europe & Central Asia",2024,"credit",0.758568106208721,22,0.70816564526633,293
+"BEL","Belgium","Europe & Central Asia",2024,"exports",0.742974812741516,21,0.525453450741343,294
+"BEL","Belgium","Europe & Central Asia",2024,"female_manager",0.0372152565955495,22,0.132862668635554,298
+"BEL","Belgium","Europe & Central Asia",2024,"female_owner",0.369799847963374,22,0.450029693309935,292
+"BEL","Belgium","Europe & Central Asia",2024,"finance_major",0.0882312046812143,22,0.0667302266977614,293
+"BEL","Belgium","Europe & Central Asia",2024,"new_product",0.746342714610992,22,0.710939817288933,294
+"BEL","Belgium","Europe & Central Asia",2024,"process",0.596919925165157,22,0.582227207164157,297
+"BEL","Belgium","Europe & Central Asia",2024,"quality_cert",0.374000082824086,22,0.319822677515493,286
+"BEL","Belgium","Europe & Central Asia",2024,"rnd",0.322816927992163,22,0.332071215334554,297
+"BEL","Belgium","Europe & Central Asia",2024,"website",0.925186224051133,22,0.925277745443765,297
+"BEN","Benin","Sub-Saharan Africa",2024,"credit",0.201225925754389,26,0.420914182989748,338
+"BEN","Benin","Sub-Saharan Africa",2024,"exports",0.195277237527649,26,0.236142884181913,338
+"BEN","Benin","Sub-Saharan Africa",2024,"female_manager",0.0537772225271727,26,0.255067681842731,337
+"BEN","Benin","Sub-Saharan Africa",2024,"female_owner",0.191432224715442,26,0.30774234194782,338
+"BEN","Benin","Sub-Saharan Africa",2024,"finance_major",0.430006843382865,26,0.568799070643297,336
+"BEN","Benin","Sub-Saharan Africa",2024,"new_product",0.118098997485405,26,0.16443462632175,338
+"BEN","Benin","Sub-Saharan Africa",2024,"process",0.0571937642118261,26,0.087684897273376,338
+"BEN","Benin","Sub-Saharan Africa",2024,"quality_cert",0.103026903731466,25,0.0574144707288131,336
+"BEN","Benin","Sub-Saharan Africa",2024,"rnd",0.0376377595089618,26,0.028942602993805,338
+"BEN","Benin","Sub-Saharan Africa",2024,"website",0.268905392134785,26,0.402413244889615,338
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"credit",0.224912635884386,11,0.171913904447198,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"exports",0.0366066965177625,11,0.052087861611314,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"female_manager",0,11,0.137544615177882,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"female_owner",0.0306543518455479,11,0.225648965093844,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"finance_major",0.957087453232114,11,0.67863575290783,366
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"new_product",0.107280248398786,11,0.143226152748728,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"process",0.0126340987947458,11,0.0570260494361201,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"quality_cert",0.01169200450618,11,0.0252531128449173,368
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"rnd",0.0176443491783947,11,0.0299450378105972,369
+"BFA","Burkina Faso","Sub-Saharan Africa",2024,"website",0.0482987010239426,11,0.246852752495049,369
+"BGD","Bangladesh","South Asia",2022,"credit",0.431545647985656,143,0.423813384889132,728
+"BGD","Bangladesh","South Asia",2022,"exports",0.294705868248581,149,0.0719251654549109,848
+"BGD","Bangladesh","South Asia",2022,"female_manager",0.0376141833895728,149,0.0355754683999031,849
+"BGD","Bangladesh","South Asia",2022,"female_owner",0.040011449775831,149,0.0727362836169592,847
+"BGD","Bangladesh","South Asia",2022,"finance_major",0.0649830176356679,132,0.100591501823052,768
+"BGD","Bangladesh","South Asia",2022,"new_product",0,149,0.000584816711360848,846
+"BGD","Bangladesh","South Asia",2022,"process",0.0176788032476923,148,0.017943085594784,841
+"BGD","Bangladesh","South Asia",2022,"quality_cert",0.204132252383402,149,0.0698004512624289,845
+"BGD","Bangladesh","South Asia",2022,"rnd",0.0358688736545495,149,0.0218974308893788,840
+"BGD","Bangladesh","South Asia",2022,"website",0.298947288561882,148,0.249597119322584,847
+"BGR","Bulgaria","Europe & Central Asia",2023,"credit",0.355855128481893,148,0.309241593889638,558
+"BGR","Bulgaria","Europe & Central Asia",2023,"exports",0.618551190503905,149,0.233086736162825,557
+"BGR","Bulgaria","Europe & Central Asia",2023,"female_manager",0.263996948326527,149,0.231628772917801,560
+"BGR","Bulgaria","Europe & Central Asia",2023,"female_owner",0.276723223111296,148,0.297641469701589,559
+"BGR","Bulgaria","Europe & Central Asia",2023,"finance_major",0.121789738556563,147,0.062315110326613,552
+"BGR","Bulgaria","Europe & Central Asia",2023,"new_product",0.0439960585319953,149,0.0550856466901359,560
+"BGR","Bulgaria","Europe & Central Asia",2023,"process",0.0483192604059713,149,0.0442542497120381,560
+"BGR","Bulgaria","Europe & Central Asia",2023,"quality_cert",0.306425512291873,148,0.18727290043984,559
+"BGR","Bulgaria","Europe & Central Asia",2023,"rnd",0.0229706043306421,149,0.0140926990028203,561
+"BGR","Bulgaria","Europe & Central Asia",2023,"website",0.683837953992874,149,0.516240837564083,560
+"BHR","Bahrain","Middle East & North Africa",2024,"credit",0.522059701178974,21,0.358659892774516,129
+"BHR","Bahrain","Middle East & North Africa",2024,"exports",0.499881501680809,20,0.269603030384344,126
+"BHR","Bahrain","Middle East & North Africa",2024,"female_manager",0.095623513274596,21,0.0882919257264135,129
+"BHR","Bahrain","Middle East & North Africa",2024,"female_owner",0.214931054586865,21,0.355577075244184,126
+"BHR","Bahrain","Middle East & North Africa",2024,"finance_major",0.249400164763797,21,0.0896419636108502,128
+"BHR","Bahrain","Middle East & North Africa",2024,"new_product",0.836796159314758,20,0.584753016718965,128
+"BHR","Bahrain","Middle East & North Africa",2024,"process",0.286114816550842,20,0.368375406697954,127
+"BHR","Bahrain","Middle East & North Africa",2024,"quality_cert",0.353705349450818,20,0.354348733928264,126
+"BHR","Bahrain","Middle East & North Africa",2024,"rnd",0.288131941917444,20,0.186257905037646,128
+"BHR","Bahrain","Middle East & North Africa",2024,"website",1,21,0.80555759808994,129
+"BIH","Bosnia","Europe & Central Asia",2023,"credit",0.351606466477464,49,0.445326396799622,300
+"BIH","Bosnia","Europe & Central Asia",2023,"exports",0.535119206546347,50,0.353069403636193,301
+"BIH","Bosnia","Europe & Central Asia",2023,"female_manager",0.146844855343472,50,0.153878851340414,300
+"BIH","Bosnia","Europe & Central Asia",2023,"female_owner",0.242595715244844,50,0.235702525403721,299
+"BIH","Bosnia","Europe & Central Asia",2023,"finance_major",0.0227933022780468,50,0.0242035145183871,301
+"BIH","Bosnia","Europe & Central Asia",2023,"new_product",0.0165218309556027,50,0.0908571350948435,301
+"BIH","Bosnia","Europe & Central Asia",2023,"process",0.0337538937082017,50,0.00864575170245427,301
+"BIH","Bosnia","Europe & Central Asia",2023,"quality_cert",0.454578789329642,49,0.250097788714533,290
+"BIH","Bosnia","Europe & Central Asia",2023,"rnd",0.122541111903476,50,0.0513264218145886,301
+"BIH","Bosnia","Europe & Central Asia",2023,"website",0.945976513900791,50,0.859497294874861,301
+"BLZ","Belize","Latin America & Caribbean",2025,"credit",0.295397994275378,10,0.50942322508452,136
+"BLZ","Belize","Latin America & Caribbean",2025,"exports",0.102301002862311,10,0.125746020709937,138
+"BLZ","Belize","Latin America & Caribbean",2025,"female_manager",0.306903008586932,10,0.273764596315724,136
+"BLZ","Belize","Latin America & Caribbean",2025,"female_owner",0.306903008586932,10,0.490881231338234,136
+"BLZ","Belize","Latin America & Caribbean",2025,"finance_major",0.102301002862311,10,0.0815432197189401,135
+"BLZ","Belize","Latin America & Caribbean",2025,"new_product",0.693096991413068,10,0.528645342873883,138
+"BLZ","Belize","Latin America & Caribbean",2025,"process",0.704602005724622,10,0.250496328836051,137
+"BLZ","Belize","Latin America & Caribbean",2025,"quality_cert",0,10,0,137
+"BLZ","Belize","Latin America & Caribbean",2025,"rnd",0.0907959885507568,10,0.208704904460539,137
+"BLZ","Belize","Latin America & Caribbean",2025,"website",0.5,10,0.718865314472727,138
+"BOL","Bolivia","Latin America & Caribbean",2025,"credit",0.472978267537759,43,0.428131700449219,565
+"BOL","Bolivia","Latin America & Caribbean",2025,"exports",0.0379538732410735,43,0.0639240892230539,567
+"BOL","Bolivia","Latin America & Caribbean",2025,"female_manager",0.404680551076443,43,0.301248134888794,564
+"BOL","Bolivia","Latin America & Caribbean",2025,"female_owner",0.574984934131836,43,0.534672019086846,564
+"BOL","Bolivia","Latin America & Caribbean",2025,"finance_major",0.731149141165176,42,0.528800434681726,550
+"BOL","Bolivia","Latin America & Caribbean",2025,"new_product",0.612929219065527,43,0.610218508841778,567
+"BOL","Bolivia","Latin America & Caribbean",2025,"process",0.579943169664124,43,0.425255893467109,567
+"BOL","Bolivia","Latin America & Caribbean",2025,"quality_cert",0.0541284620036646,43,0.0422493661514648,559
+"BOL","Bolivia","Latin America & Caribbean",2025,"rnd",0.191447061034466,43,0.133738910846818,565
+"BOL","Bolivia","Latin America & Caribbean",2025,"website",0.835702452466926,43,0.670320073360865,567
+"BRB","Barbados","Latin America & Caribbean",2023,"credit",0.465985198585009,22,0.256863553778479,131
+"BRB","Barbados","Latin America & Caribbean",2023,"exports",0.375410788339745,22,0.140448853404859,129
+"BRB","Barbados","Latin America & Caribbean",2023,"female_manager",0.428247644926097,22,0.152326762194699,130
+"BRB","Barbados","Latin America & Caribbean",2023,"female_owner",0.617811256825451,22,0.306503299272184,127
+"BRB","Barbados","Latin America & Caribbean",2023,"finance_major",0.0785366266936634,22,0.034547730446825,131
+"BRB","Barbados","Latin America & Caribbean",2023,"new_product",0.303652116480885,22,0.326665046551622,130
+"BRB","Barbados","Latin America & Caribbean",2023,"process",0.18584717644039,22,0.104383934184928,130
+"BRB","Barbados","Latin America & Caribbean",2023,"quality_cert",0.0340211181999476,22,0.0288550865016713,127
+"BRB","Barbados","Latin America & Caribbean",2023,"rnd",0.0392683133468317,22,0.0939655855452496,131
+"BRB","Barbados","Latin America & Caribbean",2023,"website",0.808905628412726,22,0.877075301164191,131
+"BRN","Brunei","East Asia & Pacific",2025,"credit",0.189334097894124,13,0.296856602762114,129
+"BRN","Brunei","East Asia & Pacific",2025,"exports",0.0761640230931531,13,0.0405132251787795,135
+"BRN","Brunei","East Asia & Pacific",2025,"female_manager",0.151252086347548,13,0.388172755845216,137
+"BRN","Brunei","East Asia & Pacific",2025,"female_owner",0.811203882025255,13,0.558937165756164,136
+"BRN","Brunei","East Asia & Pacific",2025,"finance_major",0,12,0.0854055479124674,130
+"BRN","Brunei","East Asia & Pacific",2025,"new_product",0.622945743969889,13,0.542010527771511,136
+"BRN","Brunei","East Asia & Pacific",2025,"process",0.0761640230931531,13,0.33218869230759,135
+"BRN","Brunei","East Asia & Pacific",2025,"quality_cert",0,13,0.161213151844244,135
+"BRN","Brunei","East Asia & Pacific",2025,"rnd",0.699109767063042,13,0.0934349030488649,135
+"BRN","Brunei","East Asia & Pacific",2025,"website",0.924911936745605,13,0.845666478576009,137
+"BTN","Bhutan","South Asia",2024,"credit",0.670884679182779,28,0.431797293731714,126
+"BTN","Bhutan","South Asia",2024,"exports",0.144388464974057,28,0.388960375711589,127
+"BTN","Bhutan","South Asia",2024,"female_manager",0.155591356423989,28,0.217146030558562,127
+"BTN","Bhutan","South Asia",2024,"female_owner",0.341610935285796,28,0.311174609297099,127
+"BTN","Bhutan","South Asia",2024,"finance_major",0.225202129364703,28,0.177400313753233,127
+"BTN","Bhutan","South Asia",2024,"new_product",0.136075662990682,28,0.222136626061959,127
+"BTN","Bhutan","South Asia",2024,"process",0.119807690273098,28,0.0737137850656135,127
+"BTN","Bhutan","South Asia",2024,"quality_cert",0.112500326309605,28,0.020545551662197,125
+"BTN","Bhutan","South Asia",2024,"rnd",0,28,0.017271241275413,127
+"BTN","Bhutan","South Asia",2024,"website",0.664509577641058,28,0.567908073239749,126
+"BWA","Botswana","Sub-Saharan Africa",2023,"credit",0.248089031470509,47,0.230075884395161,564
+"BWA","Botswana","Sub-Saharan Africa",2023,"exports",0.0817246030163284,47,0.0905970197398007,572
+"BWA","Botswana","Sub-Saharan Africa",2023,"female_manager",0.467163432309469,47,0.216647161163779,575
+"BWA","Botswana","Sub-Saharan Africa",2023,"female_owner",0.523936933156516,46,0.341722483641787,573
+"BWA","Botswana","Sub-Saharan Africa",2023,"finance_major",0.221564175747708,47,0.201567530010253,572
+"BWA","Botswana","Sub-Saharan Africa",2023,"new_product",0.197616969708507,47,0.202947877179397,575
+"BWA","Botswana","Sub-Saharan Africa",2023,"process",0.0670203353598429,47,0.0973016505264938,574
+"BWA","Botswana","Sub-Saharan Africa",2023,"quality_cert",0.104647288344752,47,0.103987438960076,568
+"BWA","Botswana","Sub-Saharan Africa",2023,"rnd",0.0413420759835341,47,0.0629596593927896,574
+"BWA","Botswana","Sub-Saharan Africa",2023,"website",0.656361280568113,47,0.448162479579302,575
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"credit",0,4,0.0886935877254144,139
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"exports",0.828574720879895,5,0.283701885919006,129
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"female_manager",0.0319150249230249,5,0.102779601433551,146
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"female_owner",0.828574720879895,5,0.572463194045649,145
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"finance_major",0,5,0.54298296872196,143
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"new_product",0,5,0.281085753239277,144
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"process",0.79665969595687,5,0.0803064154474183,141
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"quality_cert",0,5,0.00112346980544188,143
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"rnd",0.120621298885358,5,0.310883687418075,141
+"CAF","Central African Republic","Sub-Saharan Africa",2023,"website",0.0323737298749314,5,0.245131208957715,146
+"CAN","Canada","North America",2024,"credit",0.670446310476322,49,0.558320581370351,882
+"CAN","Canada","North America",2024,"exports",0.662948117059362,51,0.218441467351075,963
+"CAN","Canada","North America",2024,"female_manager",0.225885187256015,52,0.218566511184864,962
+"CAN","Canada","North America",2024,"female_owner",0.345091570670597,52,0.372002715115282,942
+"CAN","Canada","North America",2024,"finance_major",0.0508102367998026,51,0.110824751903231,962
+"CAN","Canada","North America",2024,"new_product",0.180227472794104,52,0.0985619523131122,963
+"CAN","Canada","North America",2024,"process",0.134668413069889,52,0.118455675383678,963
+"CAN","Canada","North America",2024,"quality_cert",0.402266699005403,52,0.153310396198661,943
+"CAN","Canada","North America",2024,"rnd",0.389710370363313,51,0.193887479215634,949
+"CAN","Canada","North America",2024,"website",0.995188473808549,52,0.916484356752074,963
+"CHE","Switzerland","Europe & Central Asia",2025,"credit",0.525442805321662,44,0.458701706227171,523
+"CHE","Switzerland","Europe & Central Asia",2025,"exports",0.620126841791783,45,0.28732144871536,524
+"CHE","Switzerland","Europe & Central Asia",2025,"female_manager",0.251485247255642,45,0.156638896331446,534
+"CHE","Switzerland","Europe & Central Asia",2025,"female_owner",0.376595893338671,44,0.372511237685655,509
+"CHE","Switzerland","Europe & Central Asia",2025,"finance_major",0.0898349427598219,42,0.0715115172565328,512
+"CHE","Switzerland","Europe & Central Asia",2025,"new_product",0.719645653734514,45,0.594136325760231,524
+"CHE","Switzerland","Europe & Central Asia",2025,"process",0.417086356423237,45,0.577782602449809,524
+"CHE","Switzerland","Europe & Central Asia",2025,"quality_cert",0.33655300406214,44,0.205930276153045,526
+"CHE","Switzerland","Europe & Central Asia",2025,"rnd",0.658887873549153,45,0.322612393118267,532
+"CHE","Switzerland","Europe & Central Asia",2025,"website",0.976974701340037,45,0.965853167412959,532
+"CHN","China","East Asia & Pacific",2024,"credit",0.229218220854491,271,0.303737323817087,1812
+"CHN","China","East Asia & Pacific",2024,"exports",0.11455790259428,282,0.0897018668472926,1892
+"CHN","China","East Asia & Pacific",2024,"female_manager",0.19577672243211,284,0.196007501022351,1902
+"CHN","China","East Asia & Pacific",2024,"female_owner",0.404842891031263,280,0.444847678657069,1856
+"CHN","China","East Asia & Pacific",2024,"finance_major",0.0354376644434275,237,0.0411849083703667,1547
+"CHN","China","East Asia & Pacific",2024,"new_product",0.402890449967337,277,0.317035722697995,1863
+"CHN","China","East Asia & Pacific",2024,"process",0.203606323261531,280,0.254082850503139,1850
+"CHN","China","East Asia & Pacific",2024,"quality_cert",0.181578161795776,276,0.157484530840501,1820
+"CHN","China","East Asia & Pacific",2024,"rnd",0.315641371597076,281,0.217438770479775,1876
+"CHN","China","East Asia & Pacific",2024,"website",0.273620406007568,283,0.295943185853208,1891
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"credit",0.113543746181403,67,0.285462191128136,572
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"exports",0.157861995046285,64,0.170682231741452,575
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"female_manager",0.0874284790023455,67,0.118470271862116,581
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"female_owner",0.123921532626986,66,0.235309708691501,575
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"finance_major",0.506938293929654,59,0.518803642370553,555
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"new_product",0.129695311974713,66,0.118111912858821,578
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"process",0.0085040911145743,66,0.0697029990547975,581
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"quality_cert",0.0323348465594549,59,0.083287881983813,550
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"rnd",0.0274620162799231,66,0.103223370705982,573
+"CIV","Côte d’Ivoire","Sub-Saharan Africa",2023,"website",0.525908224504373,67,0.585212687876954,581
+"CMR","Cameroon","Sub-Saharan Africa",2024,"credit",0.565552052146084,46,0.519709984924079,568
+"CMR","Cameroon","Sub-Saharan Africa",2024,"exports",0.0848768327512584,47,0.149730455491709,568
+"CMR","Cameroon","Sub-Saharan Africa",2024,"female_manager",0.189095180332367,47,0.213228285734842,567
+"CMR","Cameroon","Sub-Saharan Africa",2024,"female_owner",0.328350217898723,47,0.370916416161691,555
+"CMR","Cameroon","Sub-Saharan Africa",2024,"finance_major",0.645068486439656,47,0.614886783483358,566
+"CMR","Cameroon","Sub-Saharan Africa",2024,"new_product",0.106005652738917,47,0.197619142786729,567
+"CMR","Cameroon","Sub-Saharan Africa",2024,"process",0.133910965732443,47,0.139676756809184,568
+"CMR","Cameroon","Sub-Saharan Africa",2024,"quality_cert",0.0174207212169917,46,0.0843978070818498,563
+"CMR","Cameroon","Sub-Saharan Africa",2024,"rnd",0.122574741029507,47,0.0833694042144389,567
+"CMR","Cameroon","Sub-Saharan Africa",2024,"website",0.564497126422437,47,0.424901299000159,568
+"COD","DR Congo","Sub-Saharan Africa",2024,"credit",0.0226713263367701,93,0.0931989744333356,918
+"COD","DR Congo","Sub-Saharan Africa",2024,"exports",0.122494733958289,93,0.0435573641530328,931
+"COD","DR Congo","Sub-Saharan Africa",2024,"female_manager",0.14441741736431,93,0.23532072921684,932
+"COD","DR Congo","Sub-Saharan Africa",2024,"female_owner",0.229401623849495,93,0.252301696983899,932
+"COD","DR Congo","Sub-Saharan Africa",2024,"finance_major",0.499993088533276,92,0.50744905902322,927
+"COD","DR Congo","Sub-Saharan Africa",2024,"new_product",0.292737091979111,93,0.140543068861047,932
+"COD","DR Congo","Sub-Saharan Africa",2024,"process",0.151849843612825,93,0.0633261715722073,931
+"COD","DR Congo","Sub-Saharan Africa",2024,"quality_cert",0.00127123198369088,93,0.00457495679168354,923
+"COD","DR Congo","Sub-Saharan Africa",2024,"rnd",0.0588368020952745,93,0.0697155808162554,932
+"COD","DR Congo","Sub-Saharan Africa",2024,"website",0.0617518583666503,93,0.122318024704095,932
+"COG","Congo","Sub-Saharan Africa",2024,"credit",0.0498426867978667,39,0.293414781083576,317
+"COG","Congo","Sub-Saharan Africa",2024,"exports",0.0377020730459136,39,0.140748068793221,314
+"COG","Congo","Sub-Saharan Africa",2024,"female_manager",0.380132734754757,39,0.169830559965946,326
+"COG","Congo","Sub-Saharan Africa",2024,"female_owner",0.395018827833746,39,0.20747994110229,324
+"COG","Congo","Sub-Saharan Africa",2024,"finance_major",0.75350817291118,37,0.439203254854032,317
+"COG","Congo","Sub-Saharan Africa",2024,"new_product",0.339019568369734,39,0.189466709201778,322
+"COG","Congo","Sub-Saharan Africa",2024,"process",0.187514572934615,39,0.133606719222959,323
+"COG","Congo","Sub-Saharan Africa",2024,"quality_cert",0.00572092348884447,39,0.0513952322985597,321
+"COG","Congo","Sub-Saharan Africa",2024,"rnd",0.0347797284479629,39,0.151381525556404,323
+"COG","Congo","Sub-Saharan Africa",2024,"website",0.198242947391585,39,0.362557186775204,326
+"COL","Colombia","Latin America & Caribbean",2023,"credit",0.630708078186253,126,0.478600663511259,791
+"COL","Colombia","Latin America & Caribbean",2023,"exports",0.220313515802353,126,0.0743242838132609,791
+"COL","Colombia","Latin America & Caribbean",2023,"female_manager",0.226297895007284,126,0.247667698105562,792
+"COL","Colombia","Latin America & Caribbean",2023,"female_owner",0.694429637743253,126,0.618990778724369,790
+"COL","Colombia","Latin America & Caribbean",2023,"finance_major",0.267262028371495,126,0.126176525759752,790
+"COL","Colombia","Latin America & Caribbean",2023,"new_product",0.278492700714305,126,0.111617936032191,793
+"COL","Colombia","Latin America & Caribbean",2023,"process",0.0767289754290024,126,0.0925124806448842,790
+"COL","Colombia","Latin America & Caribbean",2023,"quality_cert",0.0261456353915784,124,0.102440609115182,784
+"COL","Colombia","Latin America & Caribbean",2023,"rnd",0.129448363127336,126,0.111810393726084,790
+"COL","Colombia","Latin America & Caribbean",2023,"website",0.869152034617997,126,0.766177307201716,791
+"COM","Comoros","Sub-Saharan Africa",2025,"credit",0.488224871891746,8,0.340521418153947,145
+"COM","Comoros","Sub-Saharan Africa",2025,"exports",0,8,0.00654761391208927,145
+"COM","Comoros","Sub-Saharan Africa",2025,"female_manager",0,8,0.215835987013056,145
+"COM","Comoros","Sub-Saharan Africa",2025,"female_owner",0.287921478850863,8,0.458492565694584,144
+"COM","Comoros","Sub-Saharan Africa",2025,"finance_major",0.755887564054127,8,0.488118458167553,145
+"COM","Comoros","Sub-Saharan Africa",2025,"new_product",0,8,0.196413434571031,145
+"COM","Comoros","Sub-Saharan Africa",2025,"process",0.0746960473193867,8,0.17607641571724,145
+"COM","Comoros","Sub-Saharan Africa",2025,"quality_cert",0,8,0.0180369531517401,143
+"COM","Comoros","Sub-Saharan Africa",2025,"rnd",0,8,0.0557546798455055,145
+"COM","Comoros","Sub-Saharan Africa",2025,"website",0.0746960473193867,8,0.213787799047107,145
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"credit",0.110128712060769,15,0.197302364415346,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"exports",0.136892943090228,15,0.0450337379578449,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"female_manager",0.273785886180456,15,0.266504613474173,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"female_owner",0.313899877980149,15,0.489961595337286,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"finance_major",0.56493626151199,15,0.213732173827876,147
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"new_product",0,15,0.0541879552196166,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"process",0,15,0.00346242766519235,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"quality_cert",0,15,0.0299952467698553,147
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"rnd",0,15,0.00110904261029613,148
+"CPV","Cape Verde","Sub-Saharan Africa",2024,"website",0.613598720152276,15,0.520017210503224,148
+"CRI","Costa Rica","Latin America & Caribbean",2023,"credit",0.568124126672344,29,0.504913861938413,318
+"CRI","Costa Rica","Latin America & Caribbean",2023,"exports",0.413534647163596,29,0.199405321436161,316
+"CRI","Costa Rica","Latin America & Caribbean",2023,"female_manager",0.243091844564553,29,0.253088496675884,328
+"CRI","Costa Rica","Latin America & Caribbean",2023,"female_owner",0.348552863026558,28,0.53918549345178,324
+"CRI","Costa Rica","Latin America & Caribbean",2023,"finance_major",0.223599880622248,29,0.130047895787126,320
+"CRI","Costa Rica","Latin America & Caribbean",2023,"new_product",0.512500276327405,29,0.651580859188892,326
+"CRI","Costa Rica","Latin America & Caribbean",2023,"process",0.45816196037095,29,0.449413938685052,327
+"CRI","Costa Rica","Latin America & Caribbean",2023,"quality_cert",0.24754514673267,29,0.146374279335421,323
+"CRI","Costa Rica","Latin America & Caribbean",2023,"rnd",0.293640149589352,29,0.16315261060927,328
+"CRI","Costa Rica","Latin America & Caribbean",2023,"website",0.919125796045665,29,0.878712385870803,328
+"CYP","Cyprus","Europe & Central Asia",2024,"credit",0.415479344594555,18,0.476306864568456,228
+"CYP","Cyprus","Europe & Central Asia",2024,"exports",0.662656784794921,18,0.167760653212207,228
+"CYP","Cyprus","Europe & Central Asia",2024,"female_manager",0.300760174514242,18,0.0732979723154499,228
+"CYP","Cyprus","Europe & Central Asia",2024,"female_owner",0.437162848386284,18,0.292953406218547,228
+"CYP","Cyprus","Europe & Central Asia",2024,"finance_major",0.614801812550178,18,0.15652718810893,228
+"CYP","Cyprus","Europe & Central Asia",2024,"new_product",0.0530391149738547,18,0.0521472771854043,228
+"CYP","Cyprus","Europe & Central Asia",2024,"process",0,18,0.0267697277266365,228
+"CYP","Cyprus","Europe & Central Asia",2024,"quality_cert",0.172909236534512,18,0.388778905655596,223
+"CYP","Cyprus","Europe & Central Asia",2024,"rnd",0.371767287348732,18,0.208823242322195,228
+"CYP","Cyprus","Europe & Central Asia",2024,"website",0.79890970266627,18,0.727674938727084,228
+"CZE","Czechia","Europe & Central Asia",2024,"credit",0.496792268356151,43,0.411720081248683,223
+"CZE","Czechia","Europe & Central Asia",2024,"exports",0.61567736285425,42,0.492544592570135,224
+"CZE","Czechia","Europe & Central Asia",2024,"female_manager",0.059353307213675,42,0.170225345454194,225
+"CZE","Czechia","Europe & Central Asia",2024,"female_owner",0.297411786756137,39,0.324729690920845,218
+"CZE","Czechia","Europe & Central Asia",2024,"finance_major",0.129854301985616,42,0.177450428391149,223
+"CZE","Czechia","Europe & Central Asia",2024,"new_product",0.276589519790764,41,0.170001201686709,225
+"CZE","Czechia","Europe & Central Asia",2024,"process",0.28644084933323,43,0.156293881747729,225
+"CZE","Czechia","Europe & Central Asia",2024,"quality_cert",0.31828281328743,43,0.268223149619839,222
+"CZE","Czechia","Europe & Central Asia",2024,"rnd",0.528841856452444,43,0.271052589379137,225
+"CZE","Czechia","Europe & Central Asia",2024,"website",0.957942282143251,43,0.936662870315533,225
+"DEU","Germany","Europe & Central Asia",2025,"credit",0.671708388275422,229,0.785822532637461,1718
+"DEU","Germany","Europe & Central Asia",2025,"exports",0.522138847548416,231,0.236965249997219,1731
+"DEU","Germany","Europe & Central Asia",2025,"female_manager",0.110915583206087,230,0.135422280293141,1731
+"DEU","Germany","Europe & Central Asia",2025,"female_owner",0.257674570302081,229,0.270570246664395,1714
+"DEU","Germany","Europe & Central Asia",2025,"finance_major",0.0670379211232926,230,0.139371379863232,1727
+"DEU","Germany","Europe & Central Asia",2025,"new_product",0.556479310541333,231,0.343153846573789,1731
+"DEU","Germany","Europe & Central Asia",2025,"process",0.400352717844145,231,0.256899935459604,1730
+"DEU","Germany","Europe & Central Asia",2025,"quality_cert",0.447543974925271,231,0.308893008194522,1725
+"DEU","Germany","Europe & Central Asia",2025,"rnd",0.608983356862201,231,0.178249551470987,1729
+"DEU","Germany","Europe & Central Asia",2025,"website",0.986085659747613,231,0.964386446174789,1732
+"DJI","Djibouti","Middle East & North Africa",2025,"credit",0.256862428269917,7,0.203110846302237,145
+"DJI","Djibouti","Middle East & North Africa",2025,"exports",0.482360862824533,7,0.142385139557304,146
+"DJI","Djibouti","Middle East & North Africa",2025,"female_manager",0.287100344907771,7,0.317349416275521,146
+"DJI","Djibouti","Middle East & North Africa",2025,"female_owner",0.287100344907771,7,0.324076629101275,146
+"DJI","Djibouti","Middle East & North Africa",2025,"finance_major",0,7,0.109794661993245,146
+"DJI","Djibouti","Middle East & North Africa",2025,"new_product",0.226128643814719,7,0.167590772181242,146
+"DJI","Djibouti","Middle East & North Africa",2025,"process",0.452190116908058,7,0.148067794517776,146
+"DJI","Djibouti","Middle East & North Africa",2025,"quality_cert",0,7,0.0453188971351205,144
+"DJI","Djibouti","Middle East & North Africa",2025,"rnd",0.226128643814719,7,0.0209606884207097,145
+"DJI","Djibouti","Middle East & North Africa",2025,"website",0.543962773177688,7,0.668322756177111,146
+"DNK","Denmark","Europe & Central Asia",2025,"credit",0.735028062962301,85,0.682209989735986,725
+"DNK","Denmark","Europe & Central Asia",2025,"exports",0.734724800557345,84,0.455760748549786,730
+"DNK","Denmark","Europe & Central Asia",2025,"female_manager",0.113794891638914,85,0.0927949166171733,736
+"DNK","Denmark","Europe & Central Asia",2025,"female_owner",0.418171888051009,79,0.360115428263099,677
+"DNK","Denmark","Europe & Central Asia",2025,"finance_major",0.138799974815966,85,0.0636290533085864,721
+"DNK","Denmark","Europe & Central Asia",2025,"new_product",0.710296447111942,85,0.57708472374911,736
+"DNK","Denmark","Europe & Central Asia",2025,"process",0.660279009132642,83,0.522927726369408,732
+"DNK","Denmark","Europe & Central Asia",2025,"quality_cert",0.413102279129614,84,0.250157259741186,710
+"DNK","Denmark","Europe & Central Asia",2025,"rnd",0.533742177195293,85,0.274348514367571,735
+"DNK","Denmark","Europe & Central Asia",2025,"website",0.995321922124306,85,0.96437741221177,737
+"ECU","Ecuador","Latin America & Caribbean",2024,"credit",0.459234084557681,41,0.593119696578002,304
+"ECU","Ecuador","Latin America & Caribbean",2024,"exports",0.137249638461815,41,0.147270717609212,304
+"ECU","Ecuador","Latin America & Caribbean",2024,"female_manager",0.113526397474576,41,0.223285799451596,304
+"ECU","Ecuador","Latin America & Caribbean",2024,"female_owner",0.447182918116553,41,0.571171450553695,299
+"ECU","Ecuador","Latin America & Caribbean",2024,"finance_major",0.347270294470866,41,0.316803155260897,302
+"ECU","Ecuador","Latin America & Caribbean",2024,"new_product",0.89280907865087,41,0.714510102107183,304
+"ECU","Ecuador","Latin America & Caribbean",2024,"process",0.615064464550663,41,0.547352206802906,304
+"ECU","Ecuador","Latin America & Caribbean",2024,"quality_cert",0.122220767539014,39,0.109010386584511,294
+"ECU","Ecuador","Latin America & Caribbean",2024,"rnd",0.49698183556385,41,0.265439166144608,304
+"ECU","Ecuador","Latin America & Caribbean",2024,"website",0.78372365956281,41,0.84255308880374,304
+"EGY","Egypt","Middle East & North Africa",2025,"credit",0.111565046223029,244,0.0664972109622527,768
+"EGY","Egypt","Middle East & North Africa",2025,"exports",0.176788605440361,248,0.0553220466519271,776
+"EGY","Egypt","Middle East & North Africa",2025,"female_manager",0.114743773877076,248,0.05856580998579,775
+"EGY","Egypt","Middle East & North Africa",2025,"female_owner",0.284442668233818,247,0.158535584949178,763
+"EGY","Egypt","Middle East & North Africa",2025,"finance_major",0.220463674747113,248,0.170645597170045,774
+"EGY","Egypt","Middle East & North Africa",2025,"new_product",0.254504627967029,247,0.0747633224100011,774
+"EGY","Egypt","Middle East & North Africa",2025,"process",0.0723969823616557,248,0.0284832450014845,776
+"EGY","Egypt","Middle East & North Africa",2025,"quality_cert",0.192673422917455,247,0.109524854119342,771
+"EGY","Egypt","Middle East & North Africa",2025,"rnd",0.066391547679049,248,0.0255167165792022,775
+"EGY","Egypt","Middle East & North Africa",2025,"website",0.549381422540159,248,0.587247550455645,775
+"ESP","Spain","Europe & Central Asia",2024,"credit",0.590019263196631,125,0.61895062411633,1304
+"ESP","Spain","Europe & Central Asia",2024,"exports",0.37968579249958,125,0.322749108715656,1299
+"ESP","Spain","Europe & Central Asia",2024,"female_manager",0.170580545039281,124,0.131235069871104,1304
+"ESP","Spain","Europe & Central Asia",2024,"female_owner",0.521424424528804,122,0.569504326239504,1280
+"ESP","Spain","Europe & Central Asia",2024,"finance_major",0.128066223062856,125,0.179611857535128,1303
+"ESP","Spain","Europe & Central Asia",2024,"new_product",0.706608646621014,125,0.552027680993316,1303
+"ESP","Spain","Europe & Central Asia",2024,"process",0.392197388504355,124,0.348405888855237,1301
+"ESP","Spain","Europe & Central Asia",2024,"quality_cert",0.265150864417445,122,0.349131934208154,1276
+"ESP","Spain","Europe & Central Asia",2024,"rnd",0.455536166289567,123,0.195911649714001,1298
+"ESP","Spain","Europe & Central Asia",2024,"website",0.969167828085633,125,0.869460009188977,1305
+"EST","Estonia","Europe & Central Asia",2023,"credit",0.337761427925375,50,0.34835203063809,300
+"EST","Estonia","Europe & Central Asia",2023,"exports",0.810608039671364,51,0.494844894214458,300
+"EST","Estonia","Europe & Central Asia",2023,"female_manager",0.278668029283834,51,0.145184796103522,299
+"EST","Estonia","Europe & Central Asia",2023,"female_owner",0.551685955909099,51,0.35880988563394,295
+"EST","Estonia","Europe & Central Asia",2023,"finance_major",0.0655597242358076,49,0.0654259416571689,297
+"EST","Estonia","Europe & Central Asia",2023,"new_product",0.250589201761633,51,0.136410341116024,299
+"EST","Estonia","Europe & Central Asia",2023,"process",0.0131360762055903,51,0.0728084804753154,300
+"EST","Estonia","Europe & Central Asia",2023,"quality_cert",0.147949243132557,51,0.157479048925776,296
+"EST","Estonia","Europe & Central Asia",2023,"rnd",0.175030501805663,50,0.169558353895186,300
+"EST","Estonia","Europe & Central Asia",2023,"website",0.694960790380029,51,0.837198284383057,300
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"credit",0.397046754024147,148,0.220754078647343,860
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"exports",0.124157239212906,148,0.0536167875014913,863
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"female_manager",0.056758359434687,148,0.173450428482567,863
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"female_owner",0.273270745635897,148,0.327660051493227,862
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"finance_major",0.711194583356767,147,0.555967442501595,859
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"new_product",0.0442365643828519,148,0.102355094541091,863
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"process",0.0477584855222143,148,0.0601568217440086,863
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"quality_cert",0.0412306318011893,146,0.0256278660440416,859
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"rnd",0.00162150625274797,148,0.0244674293380794,863
+"ETH","Ethiopia","Sub-Saharan Africa",2025,"website",0.295979249974347,147,0.231289473398846,863
+"FIN","Finland","Europe & Central Asia",2025,"credit",0.689471490974955,80,0.675153292902896,516
+"FIN","Finland","Europe & Central Asia",2025,"exports",0.742751898170846,83,0.320403185024716,519
+"FIN","Finland","Europe & Central Asia",2025,"female_manager",0.118409960233569,83,0.162038092915636,519
+"FIN","Finland","Europe & Central Asia",2025,"female_owner",0.510874378581661,77,0.412295410924966,493
+"FIN","Finland","Europe & Central Asia",2025,"finance_major",0.1511636446041,83,0.108047010907979,519
+"FIN","Finland","Europe & Central Asia",2025,"new_product",0.726477944101577,82,0.602469482153242,519
+"FIN","Finland","Europe & Central Asia",2025,"process",0.694032716426555,82,0.47400455774406,519
+"FIN","Finland","Europe & Central Asia",2025,"quality_cert",0.283664235764708,83,0.250875288606218,515
+"FIN","Finland","Europe & Central Asia",2025,"rnd",0.788932525474135,83,0.358805425706148,519
+"FIN","Finland","Europe & Central Asia",2025,"website",0.932986807729418,83,0.896991578321938,519
+"FJI","Fiji","East Asia & Pacific",2025,"credit",0.531873640927833,21,0.538607659405808,127
+"FJI","Fiji","East Asia & Pacific",2025,"exports",0.518020558984358,21,0.32448467698197,126
+"FJI","Fiji","East Asia & Pacific",2025,"female_manager",0.218965451836902,21,0.225244351027647,130
+"FJI","Fiji","East Asia & Pacific",2025,"female_owner",0.456233428537846,21,0.448144308299078,128
+"FJI","Fiji","East Asia & Pacific",2025,"finance_major",0.258212172189224,21,0.22656410174421,129
+"FJI","Fiji","East Asia & Pacific",2025,"new_product",0.625159463830831,21,0.655283395887653,130
+"FJI","Fiji","East Asia & Pacific",2025,"process",0.479994861994011,21,0.339192261027456,129
+"FJI","Fiji","East Asia & Pacific",2025,"quality_cert",0.0606050838100432,21,0.0615165648637299,119
+"FJI","Fiji","East Asia & Pacific",2025,"rnd",0.346641409434038,21,0.169604724602652,128
+"FJI","Fiji","East Asia & Pacific",2025,"website",0.851114675794386,21,0.704388960143614,130
+"FRA","France","Europe & Central Asia",2021,"credit",0.569913945483698,344,0.582760904160319,1186
+"FRA","France","Europe & Central Asia",2021,"exports",0.625620082009029,351,0.220572498984165,1195
+"FRA","France","Europe & Central Asia",2021,"female_manager",0.114221832443763,357,0.204719862254245,1206
+"FRA","France","Europe & Central Asia",2021,"female_owner",0.461997323809057,347,0.514965548188326,1152
+"FRA","France","Europe & Central Asia",2021,"finance_major",0.120663678349631,356,0.125434239940933,1197
+"FRA","France","Europe & Central Asia",2021,"new_product",0.442345805688294,353,0.471027843775876,1203
+"FRA","France","Europe & Central Asia",2021,"process",0.457928274876231,350,0.28767687073468,1196
+"FRA","France","Europe & Central Asia",2021,"quality_cert",0.320551068454929,343,0.149018140365717,1163
+"FRA","France","Europe & Central Asia",2021,"rnd",0.327997643764009,358,0.128593212697468,1204
+"FRA","France","Europe & Central Asia",2021,"website",0.858858790837843,358,0.770876326936922,1206
+"GAB","Gabon","Sub-Saharan Africa",2025,"credit",0.296938815982968,6,0.359679739423832,135
+"GAB","Gabon","Sub-Saharan Africa",2025,"exports",0.159597339867392,6,0.0842184315349391,141
+"GAB","Gabon","Sub-Saharan Africa",2025,"female_manager",0,6,0.198958802848947,142
+"GAB","Gabon","Sub-Saharan Africa",2025,"female_owner",0.233813498404953,6,0.371851378638083,141
+"GAB","Gabon","Sub-Saharan Africa",2025,"finance_major",0.217140146049272,6,0.371179392690218,143
+"GAB","Gabon","Sub-Saharan Africa",2025,"new_product",0.530752314387921,6,0.235936050656001,143
+"GAB","Gabon","Sub-Saharan Africa",2025,"process",0.296938815982968,6,0.234833764692675,139
+"GAB","Gabon","Sub-Saharan Africa",2025,"quality_cert",0.0797986699336962,6,0.0938139060900655,133
+"GAB","Gabon","Sub-Saharan Africa",2025,"rnd",0.0797986699336962,6,0.0990261958678941,138
+"GAB","Gabon","Sub-Saharan Africa",2025,"website",1,5,0.610927618414385,142
+"GBR","UK","Europe & Central Asia",2024,"credit",0.254980979726327,94,0.308850725523009,899
+"GBR","UK","Europe & Central Asia",2024,"exports",0.38932510785562,94,0.228811450944806,909
+"GBR","UK","Europe & Central Asia",2024,"female_manager",0.0755398969071044,94,0.129624993636174,908
+"GBR","UK","Europe & Central Asia",2024,"female_owner",0.503450337366135,94,0.466980616782173,901
+"GBR","UK","Europe & Central Asia",2024,"finance_major",0.114789625772407,94,0.110311143797852,909
+"GBR","UK","Europe & Central Asia",2024,"new_product",0.157273391182187,94,0.133515385516913,909
+"GBR","UK","Europe & Central Asia",2024,"process",0.194949875470877,94,0.122069653620862,909
+"GBR","UK","Europe & Central Asia",2024,"quality_cert",0.347897497441596,89,0.274596952284813,898
+"GBR","UK","Europe & Central Asia",2024,"rnd",0.437556638079254,94,0.194265082056661,908
+"GBR","UK","Europe & Central Asia",2024,"website",0.996692019356973,94,0.956263410362384,909
+"GEO","Georgia","Europe & Central Asia",2023,"credit",0.365339984299783,50,0.546313648701438,542
+"GEO","Georgia","Europe & Central Asia",2023,"exports",0.307820473651569,50,0.160267491323789,540
+"GEO","Georgia","Europe & Central Asia",2023,"female_manager",0.046209527559018,50,0.222437205003559,541
+"GEO","Georgia","Europe & Central Asia",2023,"female_owner",0.131933751229662,50,0.30743070366151,535
+"GEO","Georgia","Europe & Central Asia",2023,"finance_major",0.0757707461905939,50,0.11372619894021,532
+"GEO","Georgia","Europe & Central Asia",2023,"new_product",0.296346178420698,50,0.279775665150113,542
+"GEO","Georgia","Europe & Central Asia",2023,"process",0.199012123107695,50,0.163267599208516,541
+"GEO","Georgia","Europe & Central Asia",2023,"quality_cert",0.0443107854688367,50,0.0934569909753211,523
+"GEO","Georgia","Europe & Central Asia",2023,"rnd",0.102355114281767,50,0.0790169615343134,542
+"GEO","Georgia","Europe & Central Asia",2023,"website",0.770707968289811,50,0.630574093353143,541
+"GHA","Ghana","Sub-Saharan Africa",2023,"credit",0.16885883458145,77,0.221848655589552,619
+"GHA","Ghana","Sub-Saharan Africa",2023,"exports",0.207937282793252,77,0.177874461803865,618
+"GHA","Ghana","Sub-Saharan Africa",2023,"female_manager",0.15320977729082,77,0.200922422251298,634
+"GHA","Ghana","Sub-Saharan Africa",2023,"female_owner",0.177234164089778,77,0.36083815300598,631
+"GHA","Ghana","Sub-Saharan Africa",2023,"finance_major",0.39279876078299,76,0.323409462966532,631
+"GHA","Ghana","Sub-Saharan Africa",2023,"new_product",0.267341950798657,77,0.189061884708677,634
+"GHA","Ghana","Sub-Saharan Africa",2023,"process",0.241620668404019,77,0.125726021413362,631
+"GHA","Ghana","Sub-Saharan Africa",2023,"quality_cert",0.0720350166001836,73,0.0776308979877731,613
+"GHA","Ghana","Sub-Saharan Africa",2023,"rnd",0.0621046556644879,77,0.0821076448085017,630
+"GHA","Ghana","Sub-Saharan Africa",2023,"website",0.589037415929072,77,0.643119743143193,634
+"GIN","Guinea","Sub-Saharan Africa",2025,"credit",0.0132626767331298,11,0.0512817131730421,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"exports",0.0347238525889611,11,0.00920165197824027,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"female_manager",0,11,0.0577193688980614,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"female_owner",0.00611692397067729,11,0.134230128960021,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"finance_major",0,11,0.105443782747555,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"new_product",0.323085515205375,11,0.0263387136869504,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"process",0.0286069286182838,11,0.0688197447405273,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"quality_cert",0.0286069286182838,11,0.107033186233952,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"rnd",0.00611692397067729,11,0.0024457482958928,149
+"GIN","Guinea","Sub-Saharan Africa",2025,"website",0.392533220383297,11,0.39827094376483,149
+"GMB","Gambia","Sub-Saharan Africa",2023,"credit",0.0719933676741325,49,0.0917445871126805,113
+"GMB","Gambia","Sub-Saharan Africa",2023,"exports",0.122726023441968,49,0.209570641614778,112
+"GMB","Gambia","Sub-Saharan Africa",2023,"female_manager",0.231454955571992,48,0.046832261280604,113
+"GMB","Gambia","Sub-Saharan Africa",2023,"female_owner",0.227682334881434,49,0.157242464499688,113
+"GMB","Gambia","Sub-Saharan Africa",2023,"finance_major",0.522000639263017,48,0.468139658558567,111
+"GMB","Gambia","Sub-Saharan Africa",2023,"new_product",0.379141527914808,49,0.229415322901184,113
+"GMB","Gambia","Sub-Saharan Africa",2023,"process",0.395940176306677,49,0.125112367129689,113
+"GMB","Gambia","Sub-Saharan Africa",2023,"quality_cert",0,48,0.00713345456177702,109
+"GMB","Gambia","Sub-Saharan Africa",2023,"rnd",0.0167395157340508,49,0.0352226653594697,113
+"GMB","Gambia","Sub-Saharan Africa",2023,"website",0.237844295387714,49,0.458089042313746,113
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"credit",0,4,0.104665325865145,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"exports",0,4,0.119013453062602,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"female_manager",0.126148667600879,4,0.0744214133907734,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"female_owner",0.126148667600879,4,0.140717271001627,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"finance_major",0.534792293346987,4,0.738041983660289,144
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"new_product",0,4,0.114669686209232,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"process",0.126148667600879,4,0.0719928190285028,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"quality_cert",0,4,0.0160346854575594,148
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"rnd",0,4,0.0635828328988082,149
+"GNB","Guinea-Bissau","Sub-Saharan Africa",2025,"website",0.339059039052134,4,0.416631691921127,149
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"credit",0.0289357684047152,16,0.13526969508951,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"exports",0,16,0.175292603791796,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"female_manager",0.128400269619225,16,0.0757804336883811,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"female_owner",0.272330053916243,16,0.259675386769721,155
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"finance_major",0.583398134252019,16,0.294534252827233,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"new_product",0,16,0.100264324203377,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"process",0,16,0.0529613473230061,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"quality_cert",0,16,0.129647065830712,153
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"rnd",0,16,0.065461613286187,157
+"GNQ","Equatorial Guinea","Sub-Saharan Africa",2024,"website",0.108336244116805,16,0.23281250869984,157
+"GRC","Greece","Europe & Central Asia",2023,"credit",0.680021808351802,36,0.380307695259239,562
+"GRC","Greece","Europe & Central Asia",2023,"exports",0.483405524214879,36,0.34368629692988,562
+"GRC","Greece","Europe & Central Asia",2023,"female_manager",0.0909770462195353,36,0.160506517781298,562
+"GRC","Greece","Europe & Central Asia",2023,"female_owner",0.518728898530049,36,0.434398347765181,560
+"GRC","Greece","Europe & Central Asia",2023,"finance_major",0.382420417651833,36,0.224953531306418,561
+"GRC","Greece","Europe & Central Asia",2023,"new_product",0.181628991016372,35,0.0399805775304939,562
+"GRC","Greece","Europe & Central Asia",2023,"process",0.00259587900799039,36,0.0243219109536246,561
+"GRC","Greece","Europe & Central Asia",2023,"quality_cert",0.517780856211609,35,0.440384937118186,549
+"GRC","Greece","Europe & Central Asia",2023,"rnd",0.111258287919205,36,0.0766075760506462,561
+"GRC","Greece","Europe & Central Asia",2023,"website",0.923419355355653,36,0.828994503335913,562
+"GRD","Grenada","Latin America & Caribbean",2025,"credit",0.20029947735758,5,0.402117535609693,107
+"GRD","Grenada","Latin America & Caribbean",2025,"exports",0.20029947735758,5,0.16096190317227,105
+"GRD","Grenada","Latin America & Caribbean",2025,"female_manager",0.67040001511939,5,0.271270210786175,110
+"GRD","Grenada","Latin America & Caribbean",2025,"female_owner",0.79970052264242,5,0.471676323325583,109
+"GRD","Grenada","Latin America & Caribbean",2025,"finance_major",0,5,0.107175046003447,107
+"GRD","Grenada","Latin America & Caribbean",2025,"new_product",0.67040001511939,5,0.340343097432246,110
+"GRD","Grenada","Latin America & Caribbean",2025,"process",0.26980106040423,5,0.309165731242433,110
+"GRD","Grenada","Latin America & Caribbean",2025,"quality_cert",0,5,0.0653561162223456,105
+"GRD","Grenada","Latin America & Caribbean",2025,"rnd",0.20029947735758,5,0.200304877538537,108
+"GRD","Grenada","Latin America & Caribbean",2025,"website",0.87069949247697,5,0.553495286966138,110
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"credit",0.222991792842952,30,0.146040496092746,406
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"exports",0.325407879295605,39,0.215970457169468,543
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"female_manager",0.669997977922888,40,0.425712600738268,548
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"female_owner",0.317266557596042,37,0.373876519307778,523
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"finance_major",0.032800173394249,38,0.0329971058048048,479
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"new_product",0.278980445011304,40,0.173325889843804,552
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"process",0,41,0.0396753167290592,545
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"quality_cert",0.269505591479143,36,0.197509877016207,485
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"rnd",0.0741252579777369,39,0.0522947333994085,538
+"HKG","Hong Kong, China","East Asia & Pacific",2023,"website",0.912241273002895,41,0.582010206396248,555
+"HRV","Croatia","Europe & Central Asia",2023,"credit",0.478134203806345,44,0.380720868307718,428
+"HRV","Croatia","Europe & Central Asia",2023,"exports",0.547404813436202,44,0.298789026883017,429
+"HRV","Croatia","Europe & Central Asia",2023,"female_manager",0.324984158135957,44,0.253897331531073,430
+"HRV","Croatia","Europe & Central Asia",2023,"female_owner",0.39018761769303,44,0.337562082324956,424
+"HRV","Croatia","Europe & Central Asia",2023,"finance_major",0.0204544216824473,44,0.0416099160777497,428
+"HRV","Croatia","Europe & Central Asia",2023,"new_product",0.144860777118868,44,0.0415017580913175,429
+"HRV","Croatia","Europe & Central Asia",2023,"process",0.05861963572205,44,0.0461897562166935,428
+"HRV","Croatia","Europe & Central Asia",2023,"quality_cert",0.402980884072878,43,0.217021044056543,424
+"HRV","Croatia","Europe & Central Asia",2023,"rnd",0.281133377829668,44,0.057398325122932,426
+"HRV","Croatia","Europe & Central Asia",2023,"website",0.861973732502645,44,0.819500684181871,430
+"HUN","Hungary","Europe & Central Asia",2023,"credit",0.431999680718508,87,0.58691520217612,742
+"HUN","Hungary","Europe & Central Asia",2023,"exports",0.76248458514036,87,0.188814434439082,741
+"HUN","Hungary","Europe & Central Asia",2023,"female_manager",0.252536921157348,87,0.176088753649457,743
+"HUN","Hungary","Europe & Central Asia",2023,"female_owner",0.476221861201767,87,0.43198584739689,739
+"HUN","Hungary","Europe & Central Asia",2023,"finance_major",0.0059983127318168,87,0.0467364687067391,739
+"HUN","Hungary","Europe & Central Asia",2023,"new_product",0.284907370860285,87,0.134155526771207,744
+"HUN","Hungary","Europe & Central Asia",2023,"process",0.0877462696035275,87,0.133424646200527,743
+"HUN","Hungary","Europe & Central Asia",2023,"quality_cert",0.364372397488825,86,0.307712775772862,736
+"HUN","Hungary","Europe & Central Asia",2023,"rnd",0.218813312121875,87,0.0976421408886246,744
+"HUN","Hungary","Europe & Central Asia",2023,"website",0.921328434296048,87,0.769530013265697,743
+"IDN","Indonesia","East Asia & Pacific",2023,"credit",0.285595711199091,478,0.191285695399275,2081
+"IDN","Indonesia","East Asia & Pacific",2023,"exports",0.106372314141218,441,0.0916692030633521,1852
+"IDN","Indonesia","East Asia & Pacific",2023,"female_manager",0.290142671712829,523,0.320801465053991,2330
+"IDN","Indonesia","East Asia & Pacific",2023,"female_owner",0.546852457141479,523,0.598359088188461,2337
+"IDN","Indonesia","East Asia & Pacific",2023,"finance_major",0.142234716257865,517,0.150070221273206,2316
+"IDN","Indonesia","East Asia & Pacific",2023,"new_product",0.112946522015571,518,0.0489641892619727,2349
+"IDN","Indonesia","East Asia & Pacific",2023,"process",0.0150559291217515,514,0.0304827215115335,2301
+"IDN","Indonesia","East Asia & Pacific",2023,"quality_cert",0.0259341985208328,495,0.0562066543438088,2137
+"IDN","Indonesia","East Asia & Pacific",2023,"rnd",0.0108645174305938,518,0.022589547792235,2297
+"IDN","Indonesia","East Asia & Pacific",2023,"website",0.394242848263768,529,0.438885641177313,2376
+"IND","India","South Asia",2025,"credit",0.248351205393081,1840,0.21009483618345,8633
+"IND","India","South Asia",2025,"exports",0.019813678624272,1840,0.0136804523632873,8639
+"IND","India","South Asia",2025,"female_manager",0.0610479104749007,1837,0.0353512291408985,8635
+"IND","India","South Asia",2025,"female_owner",0.094170792768932,1840,0.0683599750392959,8634
+"IND","India","South Asia",2025,"finance_major",0.152453784745056,1837,0.166631632470661,8635
+"IND","India","South Asia",2025,"new_product",0.0588076446347955,1839,0.0362304535498057,8637
+"IND","India","South Asia",2025,"process",0.0295062839123225,1840,0.02198231212883,8634
+"IND","India","South Asia",2025,"quality_cert",0.0597808379370931,1839,0.0373251990673477,8634
+"IND","India","South Asia",2025,"rnd",0.0223253659845391,1840,0.00252772100466125,8638
+"IND","India","South Asia",2025,"website",0.284186089939514,1840,0.275041292962851,8634
+"IRL","Ireland","Europe & Central Asia",2024,"credit",0.389522770232941,41,0.429250854673767,568
+"IRL","Ireland","Europe & Central Asia",2024,"exports",0.326634815569621,41,0.170074265684445,568
+"IRL","Ireland","Europe & Central Asia",2024,"female_manager",0.17054795954148,41,0.160751540157813,568
+"IRL","Ireland","Europe & Central Asia",2024,"female_owner",0.578463710895366,40,0.559580357379336,560
+"IRL","Ireland","Europe & Central Asia",2024,"finance_major",0.0496538964111766,40,0.0346789787484801,568
+"IRL","Ireland","Europe & Central Asia",2024,"new_product",0.731001029730311,41,0.635652978632979,568
+"IRL","Ireland","Europe & Central Asia",2024,"process",0.475054274449226,41,0.492585458283268,566
+"IRL","Ireland","Europe & Central Asia",2024,"quality_cert",0.257206782842785,41,0.400835628267021,562
+"IRL","Ireland","Europe & Central Asia",2024,"rnd",0.345439296226004,41,0.179731103112076,566
+"IRL","Ireland","Europe & Central Asia",2024,"website",0.913402186385396,41,0.937085812962155,568
+"IRQ","Iraq","Middle East & North Africa",2022,"credit",0.0548046952745045,150,0.018596283653605,853
+"IRQ","Iraq","Middle East & North Africa",2022,"exports",0.147754027194406,148,0.0515470890089104,795
+"IRQ","Iraq","Middle East & North Africa",2022,"female_manager",0.0226770843743145,151,0.0155193838266415,868
+"IRQ","Iraq","Middle East & North Africa",2022,"female_owner",0.0390782021134533,151,0.0382197847678442,868
+"IRQ","Iraq","Middle East & North Africa",2022,"finance_major",0.554135483895023,150,0.61266109515494,860
+"IRQ","Iraq","Middle East & North Africa",2022,"new_product",0.179238125273753,151,0.185432586904683,852
+"IRQ","Iraq","Middle East & North Africa",2022,"process",0.0711253616289366,151,0.107146337948804,831
+"IRQ","Iraq","Middle East & North Africa",2022,"quality_cert",0.0634713901723269,149,0.0819243411801817,832
+"IRQ","Iraq","Middle East & North Africa",2022,"rnd",0.120154513927425,150,0.0850195108522947,853
+"IRQ","Iraq","Middle East & North Africa",2022,"website",0.540458521833684,151,0.673653070681059,867
+"ISL","Iceland","Europe & Central Asia",2024,"credit",0.199331026062498,29,0.568654864556251,330
+"ISL","Iceland","Europe & Central Asia",2024,"exports",0.455996649566714,29,0.25966394057745,331
+"ISL","Iceland","Europe & Central Asia",2024,"female_manager",0.207475700346628,29,0.168405999286314,332
+"ISL","Iceland","Europe & Central Asia",2024,"female_owner",0.556839241107724,29,0.59001365222991,324
+"ISL","Iceland","Europe & Central Asia",2024,"finance_major",0.0329841756212048,29,0.021820041829693,331
+"ISL","Iceland","Europe & Central Asia",2024,"new_product",0.862804209290142,29,0.652913171777217,332
+"ISL","Iceland","Europe & Central Asia",2024,"process",0.838000903204863,29,0.487790741214485,329
+"ISL","Iceland","Europe & Central Asia",2024,"quality_cert",0.20781916309078,29,0.270768491208513,327
+"ISL","Iceland","Europe & Central Asia",2024,"rnd",0.705101487412599,29,0.264647659023346,332
+"ISL","Iceland","Europe & Central Asia",2024,"website",0.973723318250295,29,0.913731054726779,332
+"ISR","Israel","Middle East & North Africa",2024,"credit",1,24,0.878620491888516,358
+"ISR","Israel","Middle East & North Africa",2024,"exports",0.280635933722561,25,0.0555791184830087,363
+"ISR","Israel","Middle East & North Africa",2024,"female_manager",0.124335207200103,25,0.0910057761941143,362
+"ISR","Israel","Middle East & North Africa",2024,"female_owner",0.124335207200103,25,0.172044231570976,362
+"ISR","Israel","Middle East & North Africa",2024,"finance_major",0.00627049597617241,24,0.212747603891543,362
+"ISR","Israel","Middle East & North Africa",2024,"new_product",0.201494975759238,25,0.202380788615359,362
+"ISR","Israel","Middle East & North Africa",2024,"process",0.00823395864034678,25,0.0462233158105118,363
+"ISR","Israel","Middle East & North Africa",2024,"quality_cert",0.320374716714814,25,0.21073577892485,361
+"ISR","Israel","Middle East & North Africa",2024,"rnd",0.0309704052915304,25,0.0611219944795075,362
+"ISR","Israel","Middle East & North Africa",2024,"website",0.503225951918666,25,0.795625325679445,363
+"ITA","Italy","Europe & Central Asia",2024,"credit",0.736992143489627,195,0.733901957950897,1016
+"ITA","Italy","Europe & Central Asia",2024,"exports",0.402071948356115,195,0.331471949196527,1020
+"ITA","Italy","Europe & Central Asia",2024,"female_manager",0.157496045365489,195,0.220193584329436,1021
+"ITA","Italy","Europe & Central Asia",2024,"female_owner",0.531662657563977,195,0.529086273407814,1020
+"ITA","Italy","Europe & Central Asia",2024,"finance_major",0.0269873863299916,194,0.069378259727427,1008
+"ITA","Italy","Europe & Central Asia",2024,"new_product",0.341016964043611,195,0.332077307698001,1020
+"ITA","Italy","Europe & Central Asia",2024,"process",0.322331382648265,195,0.223736078593438,1021
+"ITA","Italy","Europe & Central Asia",2024,"quality_cert",0.435387839181033,193,0.456827699293732,1008
+"ITA","Italy","Europe & Central Asia",2024,"rnd",0.393254891207945,195,0.177294182058653,1017
+"ITA","Italy","Europe & Central Asia",2024,"website",0.92700465134254,195,0.835320666517166,1021
+"JAM","Jamaica","Latin America & Caribbean",2024,"credit",0.234356971092437,14,0.48751592215183,195
+"JAM","Jamaica","Latin America & Caribbean",2024,"exports",0.113659702654838,14,0.0841803085375929,199
+"JAM","Jamaica","Latin America & Caribbean",2024,"female_manager",0.399327268582227,14,0.378104755728373,201
+"JAM","Jamaica","Latin America & Caribbean",2024,"female_owner",0.774007193481285,14,0.664856869740037,200
+"JAM","Jamaica","Latin America & Caribbean",2024,"finance_major",0.0143854076075089,14,0.0870904954726828,196
+"JAM","Jamaica","Latin America & Caribbean",2024,"new_product",0.28796288941987,14,0.303769316801179,201
+"JAM","Jamaica","Latin America & Caribbean",2024,"process",0.554092920512618,14,0.175492067810244,201
+"JAM","Jamaica","Latin America & Caribbean",2024,"quality_cert",0.0548443665840125,14,0.0828674358071553,196
+"JAM","Jamaica","Latin America & Caribbean",2024,"rnd",0.100622926970341,14,0.0921454876095838,200
+"JAM","Jamaica","Latin America & Caribbean",2024,"website",0.972577816707994,14,0.619294279931053,201
+"JOR","Jordan","Middle East & North Africa",2024,"credit",0.416809075601501,87,0.393183674019236,504
+"JOR","Jordan","Middle East & North Africa",2024,"exports",0.552460046653821,87,0.280049940260252,504
+"JOR","Jordan","Middle East & North Africa",2024,"female_manager",0.0115192109602858,87,0.0183548210008604,505
+"JOR","Jordan","Middle East & North Africa",2024,"female_owner",0.257634545633925,87,0.255855817275025,502
+"JOR","Jordan","Middle East & North Africa",2024,"finance_major",0.612930008992919,85,0.444320723827794,503
+"JOR","Jordan","Middle East & North Africa",2024,"new_product",0.259395231963412,87,0.207624937699955,505
+"JOR","Jordan","Middle East & North Africa",2024,"process",0.181041036201782,87,0.0545216223091396,505
+"JOR","Jordan","Middle East & North Africa",2024,"quality_cert",0.256227800637945,87,0.168641192435019,501
+"JOR","Jordan","Middle East & North Africa",2024,"rnd",0.617872984339131,87,0.283234387435219,504
+"JOR","Jordan","Middle East & North Africa",2024,"website",0.644876464580868,87,0.833742834609585,505
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"credit",0.197170392806388,174,0.241873653376408,839
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"exports",0.0389722286836072,174,0.0620964187449224,839
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"female_manager",0.322039640406318,174,0.310134576117037,839
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"female_owner",0.262671084665457,174,0.304128986113521,839
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"finance_major",0.217866760232322,172,0.256924531708475,831
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"new_product",0.0358698401794245,173,0.0604630894801774,839
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"process",0.257721077226598,173,0.0708964985654531,839
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"quality_cert",0.421111154739681,173,0.150772724822988,837
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"rnd",0.0858282584777688,174,0.0350457093913471,837
+"KAZ","Kazakhstan","Europe & Central Asia",2024,"website",0.568555056842219,174,0.302048360875922,839
+"KEN","Kenya","Sub-Saharan Africa",2025,"credit",0.696257229125256,70,0.450605194626341,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"exports",0.448930208936423,70,0.197795247692327,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"female_manager",0.177754578643097,70,0.177473031789235,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"female_owner",0.321026312109168,70,0.368256847698863,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"finance_major",0.335341107436851,70,0.388837198320783,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"new_product",0.302063149695828,70,0.275032635508365,953
+"KEN","Kenya","Sub-Saharan Africa",2025,"process",0.153986838253646,70,0.143772708487621,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"quality_cert",0.201852144096886,68,0.123775654247539,942
+"KEN","Kenya","Sub-Saharan Africa",2025,"rnd",0.0288353014921503,70,0.0942350637642117,954
+"KEN","Kenya","Sub-Saharan Africa",2025,"website",0.769595886450637,70,0.736528952157074,954
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"credit",0.357115200312406,42,0.196446766672265,311
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"exports",0.287161792552145,42,0.217696878852796,312
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"female_manager",0.0747592495445168,42,0.23496550231605,312
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"female_owner",0.298366811202173,42,0.349045904228483,311
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"finance_major",0.292484542537317,42,0.175720670591678,307
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"new_product",0.257244519153119,42,0.224030424145293,312
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"process",0.163050002831789,42,0.12687437916136,311
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"quality_cert",0.00892777757252104,41,0.0847952772686595,307
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"rnd",0.0894856887546628,42,0.0900617653831457,312
+"KGZ","Kyrgyzstan","Europe & Central Asia",2023,"website",0.786597801186755,42,0.667522372015366,312
+"KHM","Cambodia","East Asia & Pacific",2023,"credit",0.0301118724224524,147,0.148035301017157,372
+"KHM","Cambodia","East Asia & Pacific",2023,"exports",0.768103977875188,147,0.0332989442950844,372
+"KHM","Cambodia","East Asia & Pacific",2023,"female_manager",0.335386393576628,147,0.336686316593522,372
+"KHM","Cambodia","East Asia & Pacific",2023,"female_owner",0.280225491394897,146,0.419210482489963,372
+"KHM","Cambodia","East Asia & Pacific",2023,"finance_major",0.0697361006348907,147,0.0224534176199009,372
+"KHM","Cambodia","East Asia & Pacific",2023,"new_product",0.00514394753600207,147,0.0468917814369557,372
+"KHM","Cambodia","East Asia & Pacific",2023,"process",0.00630939635200596,147,0.0339459512401932,372
+"KHM","Cambodia","East Asia & Pacific",2023,"quality_cert",0.354807651082484,147,0.0416768620902042,371
+"KHM","Cambodia","East Asia & Pacific",2023,"rnd",0,147,0.00858698175351788,372
+"KHM","Cambodia","East Asia & Pacific",2023,"website",0.532497245303035,147,0.438545453929651,372
+"KIR","Kiribati","East Asia & Pacific",2025,"credit",0,1,0.161315506042406,149
+"KIR","Kiribati","East Asia & Pacific",2025,"exports",0,1,0.0456792694861014,149
+"KIR","Kiribati","East Asia & Pacific",2025,"female_manager",1,1,0.628392978570413,149
+"KIR","Kiribati","East Asia & Pacific",2025,"female_owner",1,1,0.615368917992314,148
+"KIR","Kiribati","East Asia & Pacific",2025,"finance_major",0,1,0.0278514647128667,145
+"KIR","Kiribati","East Asia & Pacific",2025,"new_product",0,1,0.221788448293375,149
+"KIR","Kiribati","East Asia & Pacific",2025,"process",0,1,0.138243173434504,149
+"KIR","Kiribati","East Asia & Pacific",2025,"quality_cert",0,1,0.00393876705489686,146
+"KIR","Kiribati","East Asia & Pacific",2025,"rnd",0,1,0.0469130277328425,149
+"KIR","Kiribati","East Asia & Pacific",2025,"website",0,1,0.139542129923709,149
+"KOR","Republic of Korea","East Asia & Pacific",2024,"credit",0.634852002040685,152,0.481048918536348,1324
+"KOR","Republic of Korea","East Asia & Pacific",2024,"exports",0.139728219317975,154,0.0846139760872245,1362
+"KOR","Republic of Korea","East Asia & Pacific",2024,"female_manager",0.480222504088461,154,0.437676173077385,1362
+"KOR","Republic of Korea","East Asia & Pacific",2024,"female_owner",0.20568870505615,154,0.216687224860726,1357
+"KOR","Republic of Korea","East Asia & Pacific",2024,"finance_major",0.0775970786452058,153,0.0700713386552869,1340
+"KOR","Republic of Korea","East Asia & Pacific",2024,"new_product",0.119997536463559,154,0.0446213726924363,1357
+"KOR","Republic of Korea","East Asia & Pacific",2024,"process",0.0125936770104019,154,0.0143757350391677,1357
+"KOR","Republic of Korea","East Asia & Pacific",2024,"quality_cert",0.22755024529312,154,0.146786751632256,1356
+"KOR","Republic of Korea","East Asia & Pacific",2024,"rnd",0.181400299372407,154,0.0410244489548676,1358
+"KOR","Republic of Korea","East Asia & Pacific",2024,"website",0.401234592881885,154,0.308389017941065,1364
+"KWT","Kuwait","Middle East & North Africa",2025,"credit",0.011835253030616,31,0.128124518578658,119
+"KWT","Kuwait","Middle East & North Africa",2025,"exports",0,31,0.0199105222065328,119
+"KWT","Kuwait","Middle East & North Africa",2025,"female_manager",0.032446086078992,31,0.0273552827851176,119
+"KWT","Kuwait","Middle East & North Africa",2025,"female_owner",0.032446086078992,31,0.0280507756806124,119
+"KWT","Kuwait","Middle East & North Africa",2025,"finance_major",0,30,0,119
+"KWT","Kuwait","Middle East & North Africa",2025,"new_product",0.132559935230732,31,0.110339719811571,119
+"KWT","Kuwait","Middle East & North Africa",2025,"process",0.128836203719864,31,0.0186700026171955,119
+"KWT","Kuwait","Middle East & North Africa",2025,"quality_cert",0.023411324266391,31,0.044637668373358,118
+"KWT","Kuwait","Middle East & North Africa",2025,"rnd",0.023411324266391,31,0.103679908403724,119
+"KWT","Kuwait","Middle East & North Africa",2025,"website",0.33653626534833,31,0.686107959488818,119
+"LAO","Laos","East Asia & Pacific",2024,"credit",0.245900868557307,29,0.215907286964639,333
+"LAO","Laos","East Asia & Pacific",2024,"exports",0.309306541537696,29,0.258623403371522,334
+"LAO","Laos","East Asia & Pacific",2024,"female_manager",0.458716425072176,29,0.510037523032917,334
+"LAO","Laos","East Asia & Pacific",2024,"female_owner",0.38629579409545,29,0.507875068034664,333
+"LAO","Laos","East Asia & Pacific",2024,"finance_major",0.0959516889454914,29,0.210629686661486,331
+"LAO","Laos","East Asia & Pacific",2024,"new_product",0.402482367481311,29,0.377942089573631,334
+"LAO","Laos","East Asia & Pacific",2024,"process",0.26529045299016,29,0.205872369719328,334
+"LAO","Laos","East Asia & Pacific",2024,"quality_cert",0,29,0.0141860998366961,331
+"LAO","Laos","East Asia & Pacific",2024,"rnd",0.220810152383305,29,0.146055657544251,333
+"LAO","Laos","East Asia & Pacific",2024,"website",0.249851984139164,29,0.396180896611876,334
+"LBN","Lebanon","Middle East & North Africa",2019,"credit",0.402843082558921,87,0.392714799699661,445
+"LBN","Lebanon","Middle East & North Africa",2019,"exports",0.513273795128729,87,0.257465016421846,443
+"LBN","Lebanon","Middle East & North Africa",2019,"female_manager",0.00168598957442927,87,0.0696303710403461,445
+"LBN","Lebanon","Middle East & North Africa",2019,"female_owner",0.103176390362933,87,0.0981732121325536,445
+"LBN","Lebanon","Middle East & North Africa",2019,"finance_major",0.506919133260369,87,0.472772074612853,445
+"LBN","Lebanon","Middle East & North Africa",2019,"new_product",0.0451667809785854,87,0.085089176724289,445
+"LBN","Lebanon","Middle East & North Africa",2019,"process",0.00258956293294568,87,0.0118643666308649,445
+"LBN","Lebanon","Middle East & North Africa",2019,"quality_cert",0.132885302092173,87,0.114173275051977,445
+"LBN","Lebanon","Middle East & North Africa",2019,"rnd",0.077559034190518,87,0.0728791013453533,444
+"LBN","Lebanon","Middle East & North Africa",2019,"website",0.708072310320686,87,0.621576207928602,445
+"LBR","Liberia","Sub-Saharan Africa",2025,"credit",0.238430662250593,33,0.41585825639124,125
+"LBR","Liberia","Sub-Saharan Africa",2025,"exports",0.048478271787955,33,0.099223834852752,123
+"LBR","Liberia","Sub-Saharan Africa",2025,"female_manager",0.268731447379391,33,0.203008086987324,125
+"LBR","Liberia","Sub-Saharan Africa",2025,"female_owner",0.309071540573862,33,0.213105066481011,124
+"LBR","Liberia","Sub-Saharan Africa",2025,"finance_major",0.785433435881623,33,0.691089818969569,125
+"LBR","Liberia","Sub-Saharan Africa",2025,"new_product",0.0393536847181219,33,0.150916132896889,125
+"LBR","Liberia","Sub-Saharan Africa",2025,"process",0.180593273609673,33,0.133776118499991,125
+"LBR","Liberia","Sub-Saharan Africa",2025,"quality_cert",0,33,0.0101948311177934,120
+"LBR","Liberia","Sub-Saharan Africa",2025,"rnd",0.01273010814114,33,0.108895247823683,125
+"LBR","Liberia","Sub-Saharan Africa",2025,"website",0.68939641696859,33,0.676538995650835,125
+"LCA","St. Lucia","Latin America & Caribbean",2025,"credit",1,1,0.572531379051582,150
+"LCA","St. Lucia","Latin America & Caribbean",2025,"exports",1,1,0.273366700209245,152
+"LCA","St. Lucia","Latin America & Caribbean",2025,"female_manager",1,1,0.26871256404992,152
+"LCA","St. Lucia","Latin America & Caribbean",2025,"female_owner",1,1,0.38606209572204,151
+"LCA","St. Lucia","Latin America & Caribbean",2025,"finance_major",0,1,0.170080171652437,152
+"LCA","St. Lucia","Latin America & Caribbean",2025,"new_product",0,1,0.33525275612441,152
+"LCA","St. Lucia","Latin America & Caribbean",2025,"process",1,1,0.416712877047655,152
+"LCA","St. Lucia","Latin America & Caribbean",2025,"quality_cert",0,1,0.0463261689849143,147
+"LCA","St. Lucia","Latin America & Caribbean",2025,"rnd",1,1,0.371302977790111,152
+"LCA","St. Lucia","Latin America & Caribbean",2025,"website",1,1,0.586106688272545,152
+"LKA","Sri Lanka","South Asia",2025,"credit",0.310269620328008,111,0.383715003672703,488
+"LKA","Sri Lanka","South Asia",2025,"exports",0.270019098918005,115,0.09126494677597,492
+"LKA","Sri Lanka","South Asia",2025,"female_manager",0.094160162640868,115,0.0864210731047559,492
+"LKA","Sri Lanka","South Asia",2025,"female_owner",0.26543821956437,115,0.1662389084479,490
+"LKA","Sri Lanka","South Asia",2025,"finance_major",0.565210698669342,113,0.350273024840595,485
+"LKA","Sri Lanka","South Asia",2025,"new_product",0.0401926144720577,115,0.0858885480895564,491
+"LKA","Sri Lanka","South Asia",2025,"process",0.0384056696018248,114,0.0502290280394029,490
+"LKA","Sri Lanka","South Asia",2025,"quality_cert",0.110591865766742,112,0.0768378724007968,480
+"LKA","Sri Lanka","South Asia",2025,"rnd",0.0444207920737713,115,0.0244223001056445,492
+"LKA","Sri Lanka","South Asia",2025,"website",0.412590591802847,115,0.43725628953301,492
+"LSO","Lesotho","Sub-Saharan Africa",2023,"credit",0.148293297094961,24,0.25520901291349,125
+"LSO","Lesotho","Sub-Saharan Africa",2023,"exports",0.659597982118904,24,0.217976799818503,126
+"LSO","Lesotho","Sub-Saharan Africa",2023,"female_manager",0.361973874232467,24,0.283886748239184,126
+"LSO","Lesotho","Sub-Saharan Africa",2023,"female_owner",0.660825423290766,24,0.524196602422527,124
+"LSO","Lesotho","Sub-Saharan Africa",2023,"finance_major",0.286006693069134,21,0.453228977750562,120
+"LSO","Lesotho","Sub-Saharan Africa",2023,"new_product",0.445179957234265,24,0.320719671598057,126
+"LSO","Lesotho","Sub-Saharan Africa",2023,"process",0.218662817377207,24,0.129220630265396,125
+"LSO","Lesotho","Sub-Saharan Africa",2023,"quality_cert",0.0653651003770782,23,0.0497780306256404,123
+"LSO","Lesotho","Sub-Saharan Africa",2023,"rnd",0,21,0.0827093658559969,125
+"LSO","Lesotho","Sub-Saharan Africa",2023,"website",0.460400265054105,24,0.508490458217315,124
+"LTU","Lithuania","Europe & Central Asia",2019,"credit",0.285889769289477,61,0.292217252995581,296
+"LTU","Lithuania","Europe & Central Asia",2019,"exports",0.582117567058737,61,0.276563888307792,295
+"LTU","Lithuania","Europe & Central Asia",2019,"female_manager",0.193723877148092,61,0.32210774820041,297
+"LTU","Lithuania","Europe & Central Asia",2019,"female_owner",0.403138134683981,60,0.435072037389029,296
+"LTU","Lithuania","Europe & Central Asia",2019,"finance_major",0.0776423947332824,61,0.113766706461909,294
+"LTU","Lithuania","Europe & Central Asia",2019,"new_product",0.175591924287276,61,0.303056009676596,296
+"LTU","Lithuania","Europe & Central Asia",2019,"process",0.368885310087332,61,0.167872418286045,293
+"LTU","Lithuania","Europe & Central Asia",2019,"quality_cert",0.0761016139527265,61,0.0766337086820943,293
+"LTU","Lithuania","Europe & Central Asia",2019,"rnd",0.0802973591687596,61,0.0151645844090946,297
+"LTU","Lithuania","Europe & Central Asia",2019,"website",0.308793172873672,61,0.233642057712549,295
+"LUX","Luxembourg","Europe & Central Asia",2020,"credit",0.485220340013537,27,0.486753694582333,139
+"LUX","Luxembourg","Europe & Central Asia",2020,"exports",0.879602740969228,27,0.581575183341189,141
+"LUX","Luxembourg","Europe & Central Asia",2020,"female_manager",0.0613311976879888,27,0.0757072510949666,142
+"LUX","Luxembourg","Europe & Central Asia",2020,"female_owner",0.13895546293105,26,0.449909259165973,137
+"LUX","Luxembourg","Europe & Central Asia",2020,"finance_major",0.108786744594724,25,0.119227872308773,138
+"LUX","Luxembourg","Europe & Central Asia",2020,"new_product",0.74306323160512,27,0.526599495277851,142
+"LUX","Luxembourg","Europe & Central Asia",2020,"process",0.592646608252881,27,0.334526001769432,142
+"LUX","Luxembourg","Europe & Central Asia",2020,"quality_cert",0.348971161839849,27,0.314376162170313,131
+"LUX","Luxembourg","Europe & Central Asia",2020,"rnd",0.633263167382352,27,0.208638507020258,142
+"LUX","Luxembourg","Europe & Central Asia",2020,"website",0.897768897901449,27,0.8762680319572,143
+"LVA","Latvia","Europe & Central Asia",2024,"credit",0.348376041501482,41,0.361407095324986,316
+"LVA","Latvia","Europe & Central Asia",2024,"exports",0.824126359929868,41,0.409366033432482,319
+"LVA","Latvia","Europe & Central Asia",2024,"female_manager",0.0493239864708825,41,0.256046851233592,319
+"LVA","Latvia","Europe & Central Asia",2024,"female_owner",0.164115913132132,40,0.488159439926651,317
+"LVA","Latvia","Europe & Central Asia",2024,"finance_major",0.173152936415006,41,0.236577551512148,315
+"LVA","Latvia","Europe & Central Asia",2024,"new_product",0.251507170773597,41,0.0814551629371881,319
+"LVA","Latvia","Europe & Central Asia",2024,"process",0.210977555454649,40,0.181333465492121,319
+"LVA","Latvia","Europe & Central Asia",2024,"quality_cert",0.22861268179771,41,0.172113667037943,318
+"LVA","Latvia","Europe & Central Asia",2024,"rnd",0.307649954488767,41,0.106744572855449,319
+"LVA","Latvia","Europe & Central Asia",2024,"website",0.839702106472206,41,0.796434969421953,319
+"MAR","Morocco","Middle East & North Africa",2023,"credit",0.229349992931488,121,0.219371109443784,423
+"MAR","Morocco","Middle East & North Africa",2023,"exports",0.332852222138957,133,0.207737498906793,440
+"MAR","Morocco","Middle East & North Africa",2023,"female_manager",0.0771901667321074,135,0.0524851809399639,455
+"MAR","Morocco","Middle East & North Africa",2023,"female_owner",0.0841416985285956,131,0.125941413095762,453
+"MAR","Morocco","Middle East & North Africa",2023,"finance_major",0.284945886636639,133,0.312916294722018,444
+"MAR","Morocco","Middle East & North Africa",2023,"new_product",0.114847764900181,133,0.105363779008724,451
+"MAR","Morocco","Middle East & North Africa",2023,"process",0.0466443563765372,129,0.069466601086623,449
+"MAR","Morocco","Middle East & North Africa",2023,"quality_cert",0.268749370078578,124,0.0815002223590038,414
+"MAR","Morocco","Middle East & North Africa",2023,"rnd",0.128862307356868,131,0.0947860110171485,451
+"MAR","Morocco","Middle East & North Africa",2023,"website",0.678001720938716,137,0.650704159506251,459
+"MDA","Moldova","Europe & Central Asia",2024,"credit",0.296354609870637,32,0.400775815206328,120
+"MDA","Moldova","Europe & Central Asia",2024,"exports",0.34196602927014,32,0.144149770422706,120
+"MDA","Moldova","Europe & Central Asia",2024,"female_manager",0.120492048674828,32,0.229297924850686,120
+"MDA","Moldova","Europe & Central Asia",2024,"female_owner",0.258586456830952,31,0.412611273536993,118
+"MDA","Moldova","Europe & Central Asia",2024,"finance_major",0.308180553632353,32,0.109994495804519,116
+"MDA","Moldova","Europe & Central Asia",2024,"new_product",0.578215052454375,32,0.190308776781359,119
+"MDA","Moldova","Europe & Central Asia",2024,"process",0.211188375226898,32,0.151649731610647,119
+"MDA","Moldova","Europe & Central Asia",2024,"quality_cert",0.132620835800013,32,0.162148227933143,115
+"MDA","Moldova","Europe & Central Asia",2024,"rnd",0.205253030777379,32,0.104189222440577,118
+"MDA","Moldova","Europe & Central Asia",2024,"website",0.852595790729641,32,0.43074423465227,118
+"MDG","Madagascar","Sub-Saharan Africa",2022,"credit",0.0681695156249274,47,0.0813537483102509,339
+"MDG","Madagascar","Sub-Saharan Africa",2022,"exports",0.226935176556261,51,0.0468844810149797,341
+"MDG","Madagascar","Sub-Saharan Africa",2022,"female_manager",0.227027048062411,52,0.39136607926422,349
+"MDG","Madagascar","Sub-Saharan Africa",2022,"female_owner",0.149319849763455,52,0.253800569589618,350
+"MDG","Madagascar","Sub-Saharan Africa",2022,"finance_major",0.169826785076769,47,0.224162885837015,335
+"MDG","Madagascar","Sub-Saharan Africa",2022,"new_product",0.243491651726487,51,0.262235426144733,342
+"MDG","Madagascar","Sub-Saharan Africa",2022,"process",0.0746260194380512,51,0.104090856137535,343
+"MDG","Madagascar","Sub-Saharan Africa",2022,"quality_cert",0.0608351938868021,48,0.0680458626905993,327
+"MDG","Madagascar","Sub-Saharan Africa",2022,"rnd",0.056621898107632,51,0.0617394455829369,336
+"MDG","Madagascar","Sub-Saharan Africa",2022,"website",0.185189108812727,52,0.261746418195308,350
+"MDV","Maldives","South Asia",2025,"credit",0.3500118792419,6,0.345207925572893,146
+"MDV","Maldives","South Asia",2025,"exports",0,6,0.066142643564454,147
+"MDV","Maldives","South Asia",2025,"female_manager",0.493533385809265,6,0.107535999091991,147
+"MDV","Maldives","South Asia",2025,"female_owner",0.493533385809265,6,0.374368841954593,148
+"MDV","Maldives","South Asia",2025,"finance_major",0.862367253456651,5,0.548051578631077,137
+"MDV","Maldives","South Asia",2025,"new_product",0.758036594917753,6,0.532481534444172,148
+"MDV","Maldives","South Asia",2025,"process",0.120981702541123,6,0.303779920061123,148
+"MDV","Maldives","South Asia",2025,"quality_cert",0,6,0.150443649842172,145
+"MDV","Maldives","South Asia",2025,"rnd",0,6,0.250353577449338,146
+"MDV","Maldives","South Asia",2025,"website",0.879018297458877,6,0.716674556661261,148
+"MEX","Mexico","Latin America & Caribbean",2023,"credit",0.808975178460343,286,0.504886346549866,1034
+"MEX","Mexico","Latin America & Caribbean",2023,"exports",0.107635197248893,286,0.0445197991410422,1036
+"MEX","Mexico","Latin America & Caribbean",2023,"female_manager",0.111393608702777,286,0.161403152156971,1036
+"MEX","Mexico","Latin America & Caribbean",2023,"female_owner",0.118970875747199,285,0.151922372778706,1032
+"MEX","Mexico","Latin America & Caribbean",2023,"finance_major",0.18865721023286,285,0.202126912288298,1033
+"MEX","Mexico","Latin America & Caribbean",2023,"new_product",0.269645850722313,286,0.20688719735601,1034
+"MEX","Mexico","Latin America & Caribbean",2023,"process",0.0376273281997731,286,0.0506242796439281,1034
+"MEX","Mexico","Latin America & Caribbean",2023,"quality_cert",0.0494899315491246,277,0.066141989990062,1017
+"MEX","Mexico","Latin America & Caribbean",2023,"rnd",0.0433897317840261,285,0.0388827307975642,1035
+"MEX","Mexico","Latin America & Caribbean",2023,"website",0.907661140551223,286,0.775437268544051,1034
+"MKD","North Macedonia","Europe & Central Asia",2023,"credit",0.510023292943812,43,0.46373108906655,308
+"MKD","North Macedonia","Europe & Central Asia",2023,"exports",0.502625863399884,44,0.35110942828853,309
+"MKD","North Macedonia","Europe & Central Asia",2023,"female_manager",0.105589206806519,44,0.170461549633925,310
+"MKD","North Macedonia","Europe & Central Asia",2023,"female_owner",0.117976927088212,44,0.215322047508237,308
+"MKD","North Macedonia","Europe & Central Asia",2023,"finance_major",0.0377650922058482,44,0.100925024448807,309
+"MKD","North Macedonia","Europe & Central Asia",2023,"new_product",0.026057892481757,44,0.152540338161164,309
+"MKD","North Macedonia","Europe & Central Asia",2023,"process",0.237009036782975,44,0.105408966051041,309
+"MKD","North Macedonia","Europe & Central Asia",2023,"quality_cert",0.244911094696497,43,0.270993157887032,304
+"MKD","North Macedonia","Europe & Central Asia",2023,"rnd",0.135557432696552,44,0.0675959791707636,309
+"MKD","North Macedonia","Europe & Central Asia",2023,"website",0.709520400830136,44,0.805791159866182,310
+"MLI","Mali","Sub-Saharan Africa",2024,"credit",0.0588808278665004,84,0.110192633161002,307
+"MLI","Mali","Sub-Saharan Africa",2024,"exports",0.0878014370166868,85,0.0970079478569551,306
+"MLI","Mali","Sub-Saharan Africa",2024,"female_manager",0.0512576239350625,85,0.0912961615013865,307
+"MLI","Mali","Sub-Saharan Africa",2024,"female_owner",0.133418138984872,85,0.103645756476884,307
+"MLI","Mali","Sub-Saharan Africa",2024,"finance_major",0.67566162762294,85,0.543611646046777,305
+"MLI","Mali","Sub-Saharan Africa",2024,"new_product",0.279483761509772,85,0.164157995206338,307
+"MLI","Mali","Sub-Saharan Africa",2024,"process",0.239761635132526,85,0.163756883998207,307
+"MLI","Mali","Sub-Saharan Africa",2024,"quality_cert",0,85,0.00507648638582901,307
+"MLI","Mali","Sub-Saharan Africa",2024,"rnd",0.0338505254452933,85,0.0614158028619247,307
+"MLI","Mali","Sub-Saharan Africa",2024,"website",0.103772448163725,85,0.102845583225357,307
+"MLT","Malta","Middle East & North Africa",2024,"credit",0.151948875715653,25,0.43030697955482,216
+"MLT","Malta","Middle East & North Africa",2024,"exports",0.571828272518837,25,0.241188267425972,216
+"MLT","Malta","Middle East & North Africa",2024,"female_manager",0.100922328061564,25,0.106316568774431,216
+"MLT","Malta","Middle East & North Africa",2024,"female_owner",0.161826590924202,25,0.480946115930497,209
+"MLT","Malta","Middle East & North Africa",2024,"finance_major",0.0854568957041246,24,0.145137890906281,216
+"MLT","Malta","Middle East & North Africa",2024,"new_product",0.717530401987741,25,0.636050656061972,216
+"MLT","Malta","Middle East & North Africa",2024,"process",0.389599420841602,25,0.415782152107619,215
+"MLT","Malta","Middle East & North Africa",2024,"quality_cert",0.310427614030778,23,0.224526458183372,204
+"MLT","Malta","Middle East & North Africa",2024,"rnd",0.351296982461604,25,0.249938102691275,216
+"MLT","Malta","Middle East & North Africa",2024,"website",0.972103920353646,25,0.869847292583726,216
+"MNE","Montenegro","Europe & Central Asia",2023,"credit",0.3520641872014,14,0.436667966879186,137
+"MNE","Montenegro","Europe & Central Asia",2023,"exports",0.22521160031586,14,0.199921204403362,136
+"MNE","Montenegro","Europe & Central Asia",2023,"female_manager",0.106327563391136,14,0.136786021489141,137
+"MNE","Montenegro","Europe & Central Asia",2023,"female_owner",0.101084243154755,14,0.248961471885859,133
+"MNE","Montenegro","Europe & Central Asia",2023,"finance_major",0.0475653798537902,14,0.0725186314336421,135
+"MNE","Montenegro","Europe & Central Asia",2023,"new_product",0.0773466708553431,14,0.07514514455126,137
+"MNE","Montenegro","Europe & Central Asia",2023,"process",0.169867067537322,14,0.016009892845876,137
+"MNE","Montenegro","Europe & Central Asia",2023,"quality_cert",0.331187957994757,14,0.195640224847408,132
+"MNE","Montenegro","Europe & Central Asia",2023,"rnd",0.191519256948319,14,0.0788341227014701,137
+"MNE","Montenegro","Europe & Central Asia",2023,"website",0.863424158300434,14,0.720309426129395,137
+"MNG","Mongolia","East Asia & Pacific",2025,"credit",0.327385771526996,49,0.537858222466509,551
+"MNG","Mongolia","East Asia & Pacific",2025,"exports",0.127541594966503,49,0.110320117669562,552
+"MNG","Mongolia","East Asia & Pacific",2025,"female_manager",0.411269544915766,49,0.258842123217051,552
+"MNG","Mongolia","East Asia & Pacific",2025,"female_owner",0.528748876535181,49,0.444930891933265,549
+"MNG","Mongolia","East Asia & Pacific",2025,"finance_major",0.294041959536282,49,0.369680765914308,541
+"MNG","Mongolia","East Asia & Pacific",2025,"new_product",0.706152179276484,49,0.298739409638379,552
+"MNG","Mongolia","East Asia & Pacific",2025,"process",0.421119154974439,49,0.288570807350354,552
+"MNG","Mongolia","East Asia & Pacific",2025,"quality_cert",0.143414561202145,49,0.0715469603268047,546
+"MNG","Mongolia","East Asia & Pacific",2025,"rnd",0.0810281666440242,49,0.169533554432103,551
+"MNG","Mongolia","East Asia & Pacific",2025,"website",0.780493896106753,49,0.584755527746264,552
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"credit",0.0591782483398044,48,0.115866358869598,568
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"exports",0.194010147179898,48,0.125574466531248,573
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"female_manager",0.177953338343802,48,0.216192982691626,572
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"female_owner",0.321366347782866,48,0.338313912034313,572
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"finance_major",0.46838080064679,47,0.488106362582151,569
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"new_product",0.240872330031771,48,0.153453047555161,573
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"process",0.0936384578757043,48,0.110419653357752,573
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"quality_cert",0.202433013427886,47,0.14488524044268,563
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"rnd",0.130344415066525,48,0.0564030392456563,572
+"MOZ","Mozambique","Sub-Saharan Africa",2025,"website",0.443402975305074,47,0.579324848811035,573
+"MRT","Mauritania","Sub-Saharan Africa",2025,"credit",0.584618908484805,8,0.177404964006667,154
+"MRT","Mauritania","Sub-Saharan Africa",2025,"exports",0.313612400294181,8,0.116822701166201,155
+"MRT","Mauritania","Sub-Saharan Africa",2025,"female_manager",0.0786265701799103,8,0.122193249887183,155
+"MRT","Mauritania","Sub-Saharan Africa",2025,"female_owner",0.450250440294688,8,0.239087821628403,155
+"MRT","Mauritania","Sub-Saharan Africa",2025,"finance_major",0.0580114698205971,8,0.232997214677579,153
+"MRT","Mauritania","Sub-Saharan Africa",2025,"new_product",0.662351598239255,8,0.142848057615306,155
+"MRT","Mauritania","Sub-Saharan Africa",2025,"process",0.357369621694597,8,0.0244579082036329,154
+"MRT","Mauritania","Sub-Saharan Africa",2025,"quality_cert",0.300975596382097,8,0.0108908108977872,152
+"MRT","Mauritania","Sub-Saharan Africa",2025,"rnd",0,8,0.036498501655018,155
+"MRT","Mauritania","Sub-Saharan Africa",2025,"website",1,8,0.595542979635048,155
+"MUS","Mauritius","Sub-Saharan Africa",2023,"credit",0.723372471694464,63,0.587785871433456,286
+"MUS","Mauritius","Sub-Saharan Africa",2023,"exports",0.534756305477062,65,0.191245134826896,287
+"MUS","Mauritius","Sub-Saharan Africa",2023,"female_manager",0.166810444095429,65,0.183292742475493,287
+"MUS","Mauritius","Sub-Saharan Africa",2023,"female_owner",0.33759782198717,65,0.406344254205145,288
+"MUS","Mauritius","Sub-Saharan Africa",2023,"finance_major",0.286897420020158,64,0.239194950014049,281
+"MUS","Mauritius","Sub-Saharan Africa",2023,"new_product",0.46682838672423,65,0.455900900068546,288
+"MUS","Mauritius","Sub-Saharan Africa",2023,"process",0.390436928897785,63,0.215154910033587,287
+"MUS","Mauritius","Sub-Saharan Africa",2023,"quality_cert",0.226260193504037,60,0.153169149376506,281
+"MUS","Mauritius","Sub-Saharan Africa",2023,"rnd",0.246034053482933,65,0.169128321487394,287
+"MUS","Mauritius","Sub-Saharan Africa",2023,"website",0.67332771113254,65,0.692751848760614,288
+"MWI","Malawi","Sub-Saharan Africa",2025,"credit",0.525977879007068,25,0.157369584915108,127
+"MWI","Malawi","Sub-Saharan Africa",2025,"exports",0.225579816856359,25,0.0828886868614358,128
+"MWI","Malawi","Sub-Saharan Africa",2025,"female_manager",0.0642370698238354,25,0.13967055901547,127
+"MWI","Malawi","Sub-Saharan Africa",2025,"female_owner",0.191873024742421,25,0.178436995313447,125
+"MWI","Malawi","Sub-Saharan Africa",2025,"finance_major",0.646415784326766,25,0.477711555548838,127
+"MWI","Malawi","Sub-Saharan Africa",2025,"new_product",0.564436433909344,25,0.477184282058636,127
+"MWI","Malawi","Sub-Saharan Africa",2025,"process",0.412871615653298,25,0.114679660798092,128
+"MWI","Malawi","Sub-Saharan Africa",2025,"quality_cert",0.0276720945756014,25,0.0134699219091654,124
+"MWI","Malawi","Sub-Saharan Africa",2025,"rnd",0.490368225680152,25,0.082030309343653,128
+"MWI","Malawi","Sub-Saharan Africa",2025,"website",0.754928923541306,25,0.382722595666896,128
+"MYS","Malaysia","East Asia & Pacific",2024,"credit",0.502785891476736,74,0.364800924841806,724
+"MYS","Malaysia","East Asia & Pacific",2024,"exports",0.228717698250356,88,0.155659655363766,886
+"MYS","Malaysia","East Asia & Pacific",2024,"female_manager",0.174435855826275,88,0.264758338740231,890
+"MYS","Malaysia","East Asia & Pacific",2024,"female_owner",0.573390297536592,88,0.3636893880868,885
+"MYS","Malaysia","East Asia & Pacific",2024,"finance_major",0.00411969298610887,88,0.0380965609775825,878
+"MYS","Malaysia","East Asia & Pacific",2024,"new_product",0.280664311807663,88,0.210195961369204,891
+"MYS","Malaysia","East Asia & Pacific",2024,"process",0.309746227098133,88,0.201366051901749,889
+"MYS","Malaysia","East Asia & Pacific",2024,"quality_cert",0.232523024817877,86,0.172252700412687,876
+"MYS","Malaysia","East Asia & Pacific",2024,"rnd",0.229748702716824,87,0.0980370183644018,888
+"MYS","Malaysia","East Asia & Pacific",2024,"website",0.711808062771372,88,0.579389680826126,891
+"NAM","Namibia","Sub-Saharan Africa",2024,"credit",0.424908282526056,21,0.357597871921105,260
+"NAM","Namibia","Sub-Saharan Africa",2024,"exports",0.222117531639846,22,0.110552779224624,282
+"NAM","Namibia","Sub-Saharan Africa",2024,"female_manager",0.0643039721181741,22,0.280990460179269,284
+"NAM","Namibia","Sub-Saharan Africa",2024,"female_owner",0.326272160530998,22,0.472263451564393,277
+"NAM","Namibia","Sub-Saharan Africa",2024,"finance_major",0.294357248333518,22,0.225537848732176,274
+"NAM","Namibia","Sub-Saharan Africa",2024,"new_product",0.287294621486523,22,0.464917868551311,285
+"NAM","Namibia","Sub-Saharan Africa",2024,"process",0.167612583501174,22,0.302182101849233,280
+"NAM","Namibia","Sub-Saharan Africa",2024,"quality_cert",0.10296533622682,22,0.151182239545243,254
+"NAM","Namibia","Sub-Saharan Africa",2024,"rnd",0.49472939819538,22,0.258350661440314,278
+"NAM","Namibia","Sub-Saharan Africa",2024,"website",0.816886354010063,22,0.640744531085643,284
+"NER","Niger","Sub-Saharan Africa",2025,"credit",0,7,0.173765409945714,141
+"NER","Niger","Sub-Saharan Africa",2025,"exports",0.0402295233930624,7,0.0781319134151095,147
+"NER","Niger","Sub-Saharan Africa",2025,"female_manager",0.235362063590824,7,0.141497517730733,149
+"NER","Niger","Sub-Saharan Africa",2025,"female_owner",0.405194388750799,7,0.243192866892301,148
+"NER","Niger","Sub-Saharan Africa",2025,"finance_major",0.574757519831483,7,0.431032306387306,148
+"NER","Niger","Sub-Saharan Africa",2025,"new_product",0.44543365707312,7,0.369594776125895,149
+"NER","Niger","Sub-Saharan Africa",2025,"process",0.275591586983886,7,0.207352137353708,149
+"NER","Niger","Sub-Saharan Africa",2025,"quality_cert",0,7,0.00801616728002895,142
+"NER","Niger","Sub-Saharan Africa",2025,"rnd",0.149650893184631,7,0.0721960170314684,149
+"NER","Niger","Sub-Saharan Africa",2025,"website",0.44515471806457,7,0.358714979054713,149
+"NGA","Nigeria","Sub-Saharan Africa",2025,"credit",0.290382608070879,168,0.19840422602196,844
+"NGA","Nigeria","Sub-Saharan Africa",2025,"exports",0.0445443272837534,173,0.0681795001561174,867
+"NGA","Nigeria","Sub-Saharan Africa",2025,"female_manager",0.125625046807418,173,0.144717094165791,869
+"NGA","Nigeria","Sub-Saharan Africa",2025,"female_owner",0.161519238961873,173,0.187015281869204,861
+"NGA","Nigeria","Sub-Saharan Africa",2025,"finance_major",0.492597017851264,171,0.384360547004237,865
+"NGA","Nigeria","Sub-Saharan Africa",2025,"new_product",0.291081894683574,173,0.19222478577496,869
+"NGA","Nigeria","Sub-Saharan Africa",2025,"process",0.269798363170456,173,0.189750758807567,869
+"NGA","Nigeria","Sub-Saharan Africa",2025,"quality_cert",0.0589912049163224,173,0.0906889527067314,855
+"NGA","Nigeria","Sub-Saharan Africa",2025,"rnd",0.110981692037514,173,0.0997824590217585,866
+"NGA","Nigeria","Sub-Saharan Africa",2025,"website",0.329093244066758,173,0.360041371879949,867
+"NLD","Netherlands","Europe & Central Asia",2020,"credit",0.242414963904361,175,0.423877185654894,633
+"NLD","Netherlands","Europe & Central Asia",2020,"exports",0.800641648594394,173,0.459509428478149,632
+"NLD","Netherlands","Europe & Central Asia",2020,"female_manager",0.0590513031908731,175,0.151017332963489,631
+"NLD","Netherlands","Europe & Central Asia",2020,"female_owner",0.239430498389101,172,0.370668874456739,619
+"NLD","Netherlands","Europe & Central Asia",2020,"finance_major",0.0898926166662055,174,0.0996982696436952,620
+"NLD","Netherlands","Europe & Central Asia",2020,"new_product",0.74062561270467,175,0.606992117922469,633
+"NLD","Netherlands","Europe & Central Asia",2020,"process",0.643924759332992,173,0.459290457706765,633
+"NLD","Netherlands","Europe & Central Asia",2020,"quality_cert",0.51575608460042,169,0.43217484012843,623
+"NLD","Netherlands","Europe & Central Asia",2020,"rnd",0.541758363257492,174,0.254280861995975,632
+"NLD","Netherlands","Europe & Central Asia",2020,"website",0.978327594050586,175,0.970041961109051,633
+"NOR","Norway","Europe & Central Asia",2025,"credit",0.603191101879996,28,0.536215228876673,420
+"NOR","Norway","Europe & Central Asia",2025,"exports",0.352928770068757,28,0.279899647148957,419
+"NOR","Norway","Europe & Central Asia",2025,"female_manager",0.467708428577434,28,0.165142357679553,423
+"NOR","Norway","Europe & Central Asia",2025,"female_owner",0.704658403023433,26,0.495976885719655,390
+"NOR","Norway","Europe & Central Asia",2025,"finance_major",0,28,0.0884615878514727,422
+"NOR","Norway","Europe & Central Asia",2025,"new_product",0.77993248584468,28,0.669952987468687,425
+"NOR","Norway","Europe & Central Asia",2025,"process",0.619553611496833,28,0.640329135964525,422
+"NOR","Norway","Europe & Central Asia",2025,"quality_cert",0.222548616314287,27,0.225845335457295,409
+"NOR","Norway","Europe & Central Asia",2025,"rnd",0.403031568837567,28,0.24723728618551,424
+"NOR","Norway","Europe & Central Asia",2025,"website",0.991737878516193,28,0.930173654460209,425
+"NPL","Nepal","South Asia",2023,"credit",0.519056934143604,56,0.584813152619018,522
+"NPL","Nepal","South Asia",2023,"exports",0.030195225315712,56,0.202970385415523,526
+"NPL","Nepal","South Asia",2023,"female_manager",0.0888364691267886,56,0.104666906781093,526
+"NPL","Nepal","South Asia",2023,"female_owner",0.0662188133772955,56,0.155609981765933,523
+"NPL","Nepal","South Asia",2023,"finance_major",0.147300151198579,56,0.265706581929721,525
+"NPL","Nepal","South Asia",2023,"new_product",0.1488962774389,56,0.166452979998466,526
+"NPL","Nepal","South Asia",2023,"process",0.0232074600383597,56,0.0916248192019723,526
+"NPL","Nepal","South Asia",2023,"quality_cert",0.0328860677888762,55,0.0480532876343925,526
+"NPL","Nepal","South Asia",2023,"rnd",0.00495711102752458,56,0.00946376737268806,526
+"NPL","Nepal","South Asia",2023,"website",0.41876314197202,56,0.549401685614364,526
+"NZL","New Zealand","East Asia & Pacific",2023,"credit",0.560336821368319,17,0.528168703765627,330
+"NZL","New Zealand","East Asia & Pacific",2023,"exports",0.616440477360964,20,0.205138270008408,337
+"NZL","New Zealand","East Asia & Pacific",2023,"female_manager",0.176177517474981,19,0.204413524675105,336
+"NZL","New Zealand","East Asia & Pacific",2023,"female_owner",0.524198151656129,18,0.58521964680335,330
+"NZL","New Zealand","East Asia & Pacific",2023,"finance_major",0.0251691494545766,19,0.0907654836952378,327
+"NZL","New Zealand","East Asia & Pacific",2023,"new_product",0.682174700942566,20,0.613038952647566,335
+"NZL","New Zealand","East Asia & Pacific",2023,"process",0.647994908363968,20,0.522967856513907,332
+"NZL","New Zealand","East Asia & Pacific",2023,"quality_cert",0.194532146514754,20,0.0554591204523089,312
+"NZL","New Zealand","East Asia & Pacific",2023,"rnd",0.442880815077092,19,0.231603834096137,332
+"NZL","New Zealand","East Asia & Pacific",2023,"website",1,20,0.914181509295036,338
+"PAK","Pakistan","South Asia",2022,"credit",0.0275319283972993,203,0.0192996892096496,1073
+"PAK","Pakistan","South Asia",2022,"exports",0.209890580032755,204,0.115333837614127,1095
+"PAK","Pakistan","South Asia",2022,"female_manager",0.0305720399686228,203,0.0349820344316204,1096
+"PAK","Pakistan","South Asia",2022,"female_owner",0.0445045074182727,203,0.0508123796553937,1081
+"PAK","Pakistan","South Asia",2022,"finance_major",0.105250374641922,204,0.132839508744517,1089
+"PAK","Pakistan","South Asia",2022,"new_product",0.0190654277957784,204,0.0372777112880188,1096
+"PAK","Pakistan","South Asia",2022,"process",0.00547694884690602,204,0.0171813062837886,1096
+"PAK","Pakistan","South Asia",2022,"quality_cert",0.188123618152509,195,0.198606446333957,1064
+"PAK","Pakistan","South Asia",2022,"rnd",0,203,0.0156684396552299,1081
+"PAK","Pakistan","South Asia",2022,"website",0.397981249929694,204,0.512979088502137,1094
+"PER","Peru","Latin America & Caribbean",2023,"credit",0.796146612886066,145,0.813112186294161,839
+"PER","Peru","Latin America & Caribbean",2023,"exports",0.463569248799973,145,0.187664011626674,842
+"PER","Peru","Latin America & Caribbean",2023,"female_manager",0.168245039190964,145,0.227379797020332,842
+"PER","Peru","Latin America & Caribbean",2023,"female_owner",0.608843216015887,144,0.549590390386997,836
+"PER","Peru","Latin America & Caribbean",2023,"finance_major",0.155625708454483,145,0.0810938948393717,835
+"PER","Peru","Latin America & Caribbean",2023,"new_product",0.724089744503184,145,0.643121628254615,840
+"PER","Peru","Latin America & Caribbean",2023,"process",0.651570897694749,145,0.688965974483958,837
+"PER","Peru","Latin America & Caribbean",2023,"quality_cert",0.215012763774239,144,0.0973887626289705,815
+"PER","Peru","Latin America & Caribbean",2023,"rnd",0.318057156330623,145,0.210113270923459,839
+"PER","Peru","Latin America & Caribbean",2023,"website",0.799293791990272,145,0.823263107635054,841
+"PHL","Philippines","East Asia & Pacific",2023,"credit",0.200420229211101,108,0.201435648456961,817
+"PHL","Philippines","East Asia & Pacific",2023,"exports",0.144612487087348,117,0.0370915469832313,880
+"PHL","Philippines","East Asia & Pacific",2023,"female_manager",0.545021139866039,111,0.428305353223493,864
+"PHL","Philippines","East Asia & Pacific",2023,"female_owner",0.541662410948862,113,0.568828494145109,857
+"PHL","Philippines","East Asia & Pacific",2023,"finance_major",0.0520769773510817,115,0.121089504170744,865
+"PHL","Philippines","East Asia & Pacific",2023,"new_product",0.352874862122577,114,0.184235714305264,874
+"PHL","Philippines","East Asia & Pacific",2023,"process",0.0250250732029789,114,0.0990529504327697,869
+"PHL","Philippines","East Asia & Pacific",2023,"quality_cert",0.0180526426777749,109,0.0763601562936215,853
+"PHL","Philippines","East Asia & Pacific",2023,"rnd",0.100484958881717,114,0.121632142102778,866
+"PHL","Philippines","East Asia & Pacific",2023,"website",0.781860979080034,115,0.648762111334249,882
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"credit",0.2110739497356,12,0.292234828680684,116
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"exports",0.0468953790313332,13,0.158017396449723,122
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"female_manager",0.0755656142846902,13,0.238371563421699,132
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"female_owner",0.122460993316023,13,0.403577211128583,129
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"finance_major",0.117238033797298,13,0.173033039621064,129
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"new_product",0.274156975808309,13,0.421911537826439,131
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"process",0.180575964361275,13,0.30500334037472,128
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"quality_cert",0.117238033797298,13,0.42553333299421,112
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"rnd",0.180991494714015,13,0.203466528124783,130
+"PNG","Papua New Guinea","East Asia & Pacific",2024,"website",0.965979242926708,13,0.856711594181776,131
+"POL","Poland","Europe & Central Asia",2025,"credit",0.414361904003979,255,0.287307441424165,1458
+"POL","Poland","Europe & Central Asia",2025,"exports",0.126393351820595,249,0.0833024475260967,1450
+"POL","Poland","Europe & Central Asia",2025,"female_manager",0.388409161663131,255,0.313116163114823,1465
+"POL","Poland","Europe & Central Asia",2025,"female_owner",0.448195039240828,255,0.356846020718175,1468
+"POL","Poland","Europe & Central Asia",2025,"finance_major",0.217305410319683,253,0.252981927661457,1432
+"POL","Poland","Europe & Central Asia",2025,"new_product",0.111727470436961,256,0.0564129542231617,1469
+"POL","Poland","Europe & Central Asia",2025,"process",0.0320458258535157,255,0.0233877994544264,1466
+"POL","Poland","Europe & Central Asia",2025,"quality_cert",0.0829931169268225,255,0.0510632097399199,1457
+"POL","Poland","Europe & Central Asia",2025,"rnd",0.0205823773072237,256,0.0113297708416568,1468
+"POL","Poland","Europe & Central Asia",2025,"website",0.729462102444896,256,0.549636447956025,1469
+"PRT","Portugal","Europe & Central Asia",2023,"credit",0.561592821975409,145,0.475242528102755,861
+"PRT","Portugal","Europe & Central Asia",2023,"exports",0.63856347122048,145,0.188915825215642,860
+"PRT","Portugal","Europe & Central Asia",2023,"female_manager",0.191506457217746,145,0.190764482139584,862
+"PRT","Portugal","Europe & Central Asia",2023,"female_owner",0.558810977093584,145,0.47029749497207,858
+"PRT","Portugal","Europe & Central Asia",2023,"finance_major",0.117694375279319,145,0.0714968498412767,859
+"PRT","Portugal","Europe & Central Asia",2023,"new_product",0.0572926664016108,145,0.050862930057474,861
+"PRT","Portugal","Europe & Central Asia",2023,"process",0.0707068740815048,145,0.0171377496133283,860
+"PRT","Portugal","Europe & Central Asia",2023,"quality_cert",0.153824433800172,143,0.146873926016869,852
+"PRT","Portugal","Europe & Central Asia",2023,"rnd",0.131891502184978,145,0.0566961364883132,862
+"PRT","Portugal","Europe & Central Asia",2023,"website",0.75017039733075,145,0.701595911037624,861
+"PRY","Paraguay","Latin America & Caribbean",2023,"credit",0.832059708864824,25,0.640027125106956,346
+"PRY","Paraguay","Latin America & Caribbean",2023,"exports",0.236917056082306,26,0.108407634368346,352
+"PRY","Paraguay","Latin America & Caribbean",2023,"female_manager",0.0794215980056269,26,0.196418377388253,352
+"PRY","Paraguay","Latin America & Caribbean",2023,"female_owner",0.609291509347298,26,0.635493745578104,352
+"PRY","Paraguay","Latin America & Caribbean",2023,"finance_major",0.283661111582702,26,0.141932474388364,352
+"PRY","Paraguay","Latin America & Caribbean",2023,"new_product",0.319670116065871,26,0.157632437677701,352
+"PRY","Paraguay","Latin America & Caribbean",2023,"process",0.195960676366995,26,0.139513318992738,350
+"PRY","Paraguay","Latin America & Caribbean",2023,"quality_cert",0.0875131309372601,26,0.109318384850567,341
+"PRY","Paraguay","Latin America & Caribbean",2023,"rnd",0.267259870967463,26,0.124332840359092,352
+"PRY","Paraguay","Latin America & Caribbean",2023,"website",0.914842678744053,26,0.910612609928702,352
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"credit",0.229950013618421,48,0.172094988346036,309
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"exports",0.591632350103661,49,0.109147887045549,306
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"female_manager",0,49,0.0335116559477719,311
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"female_owner",0.00979647977518095,49,0.141597040120368,311
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"finance_major",0.29323815307839,47,0.207295057546944,305
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"new_product",0.235234807616174,48,0.134248121027312,311
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"process",0.00515346209708148,48,0.0886605418244906,309
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"quality_cert",0.179655796876962,48,0.0724937145110471,307
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"rnd",0.129028320535828,49,0.056361648802053,309
+"PSE","West Bank and Gaza","Middle East & North Africa",2023,"website",0.741860102245142,49,0.691103803770003,311
+"QAT","Qatar","Middle East & North Africa",2025,"credit",0.0109526621535332,68,0.106764944409579,411
+"QAT","Qatar","Middle East & North Africa",2025,"exports",0.00541653428973677,68,0.0238880972779938,412
+"QAT","Qatar","Middle East & North Africa",2025,"female_manager",0.00647193066303132,68,0.0151069054038017,412
+"QAT","Qatar","Middle East & North Africa",2025,"female_owner",0.010517861531456,68,0.0129610999903992,412
+"QAT","Qatar","Middle East & North Africa",2025,"finance_major",0.0169897921944873,68,0.124302300628138,412
+"QAT","Qatar","Middle East & North Africa",2025,"new_product",0.0201736164674017,68,0.0812244894264515,412
+"QAT","Qatar","Middle East & North Africa",2025,"process",0,68,0.00501722479711582,412
+"QAT","Qatar","Middle East & North Africa",2025,"quality_cert",0.00676881297119217,68,0.075690476979114,411
+"QAT","Qatar","Middle East & North Africa",2025,"rnd",0,68,0.00114439378583841,412
+"QAT","Qatar","Middle East & North Africa",2025,"website",0.785139956193428,68,0.59549722867813,412
+"ROU","Romania","Europe & Central Asia",2023,"credit",0.399161448334806,182,0.440626059759561,763
+"ROU","Romania","Europe & Central Asia",2023,"exports",0.446963626530382,183,0.112017892876666,763
+"ROU","Romania","Europe & Central Asia",2023,"female_manager",0.149679084626413,183,0.194915109952856,763
+"ROU","Romania","Europe & Central Asia",2023,"female_owner",0.254912077845702,180,0.268158077901519,762
+"ROU","Romania","Europe & Central Asia",2023,"finance_major",0.213148300753627,179,0.2320588322993,756
+"ROU","Romania","Europe & Central Asia",2023,"new_product",0.024281291377648,183,0.0294112110643958,762
+"ROU","Romania","Europe & Central Asia",2023,"process",0.0314281174694622,182,0.0190934999548013,761
+"ROU","Romania","Europe & Central Asia",2023,"quality_cert",0.35749400890547,178,0.292479080958417,757
+"ROU","Romania","Europe & Central Asia",2023,"rnd",0.0716800742527935,180,0.0417248577130133,763
+"ROU","Romania","Europe & Central Asia",2023,"website",0.782921656756649,183,0.620262533031929,764
+"RUS","Russia","Europe & Central Asia",2019,"credit",0.443079193483532,308,0.323210085146093,1002
+"RUS","Russia","Europe & Central Asia",2019,"exports",0.213024228346546,307,0.063589263260973,1001
+"RUS","Russia","Europe & Central Asia",2019,"female_manager",0.290149140528123,311,0.238522186836971,1010
+"RUS","Russia","Europe & Central Asia",2019,"female_owner",0.364057620918999,308,0.337942067660379,1003
+"RUS","Russia","Europe & Central Asia",2019,"finance_major",0.218178545283641,305,0.144325961923078,994
+"RUS","Russia","Europe & Central Asia",2019,"new_product",0.194254015448175,299,0.0880810306283586,989
+"RUS","Russia","Europe & Central Asia",2019,"process",0.082611051453782,306,0.121472930137796,992
+"RUS","Russia","Europe & Central Asia",2019,"quality_cert",0.0251988841490619,302,0.0171162738203481,983
+"RUS","Russia","Europe & Central Asia",2019,"rnd",0.102016517925202,309,0.085101786577924,1008
+"RUS","Russia","Europe & Central Asia",2019,"website",0.704628978479077,311,0.572509541875413,1010
+"RWA","Rwanda","Sub-Saharan Africa",2023,"credit",0.478128224449269,39,0.418652957591831,317
+"RWA","Rwanda","Sub-Saharan Africa",2023,"exports",0.105964586078227,39,0.084574213479979,319
+"RWA","Rwanda","Sub-Saharan Africa",2023,"female_manager",0.385527724383061,39,0.264717347320708,319
+"RWA","Rwanda","Sub-Saharan Africa",2023,"female_owner",0.491879650493546,39,0.359829813777662,317
+"RWA","Rwanda","Sub-Saharan Africa",2023,"finance_major",0.471662269043228,39,0.194230017899366,318
+"RWA","Rwanda","Sub-Saharan Africa",2023,"new_product",0.699674497156443,39,0.682185313518373,319
+"RWA","Rwanda","Sub-Saharan Africa",2023,"process",0.625015236388236,39,0.511609817126409,319
+"RWA","Rwanda","Sub-Saharan Africa",2023,"quality_cert",0.0149826292812943,38,0.0815142615822098,314
+"RWA","Rwanda","Sub-Saharan Africa",2023,"rnd",0.0647288046665613,39,0.0521210816440932,319
+"RWA","Rwanda","Sub-Saharan Africa",2023,"website",0.384791869442346,39,0.432547641945033,319
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"credit",0.192014033879318,126,0.0974561302326422,1412
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"exports",0.503219071996404,113,0.150394051378979,1317
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"female_manager",0.0648854220552684,128,0.0273646323566548,1442
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"female_owner",0.09640964473486,127,0.0456792534798391,1436
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"finance_major",0.00137410764281675,124,0.0341185826316935,1403
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"new_product",0.00921337939933756,128,0.0550041890297693,1433
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"process",0.00322494983174043,124,0.0426709368190083,1426
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"quality_cert",0.225382736358191,119,0.0587369602095899,1395
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"rnd",0.0623344965162079,125,0.0750463915212243,1423
+"SAU","Saudi Arabia","Middle East & North Africa",2022,"website",0.580966156916611,128,0.27293087340137,1442
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"credit",0.220619879563371,66,0.134940073454978,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"exports",0.0428429705868014,67,0.0211335809062873,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"female_manager",0.00907212478399042,67,0.0178860320969718,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"female_owner",0.0218230004545555,67,0.0238118764255276,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"finance_major",0.393958131413383,67,0.176739824062422,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"new_product",0.00638834226007102,67,0.116010955320497,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"process",0.0072771479846044,67,0.0433736515710501,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"quality_cert",0.139603492798267,67,0.0263338280909115,933
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"rnd",0.00222137966982427,67,0.00362831025386244,935
+"SAU","Saudi Arabia","Middle East & North Africa",2025,"website",0.257546283016303,67,0.183350477415675,935
+"SEN","Senegal","Sub-Saharan Africa",2024,"credit",0.0518937270561615,35,0.197246414319567,563
+"SEN","Senegal","Sub-Saharan Africa",2024,"exports",0.0918640686075646,35,0.103463024764251,567
+"SEN","Senegal","Sub-Saharan Africa",2024,"female_manager",0.0107105852552915,35,0.167605554040329,568
+"SEN","Senegal","Sub-Saharan Africa",2024,"female_owner",0.00828081014667887,35,0.21995310800795,565
+"SEN","Senegal","Sub-Saharan Africa",2024,"finance_major",0.91384809960723,35,0.468196420355305,565
+"SEN","Senegal","Sub-Saharan Africa",2024,"new_product",0.0217617413156955,35,0.24376499071483,567
+"SEN","Senegal","Sub-Saharan Africa",2024,"process",0.0163687793645446,35,0.175998093626048,568
+"SEN","Senegal","Sub-Saharan Africa",2024,"quality_cert",0.0138424518512191,33,0.0737023363364522,557
+"SEN","Senegal","Sub-Saharan Africa",2024,"rnd",0.0217617413156955,35,0.0300590368730459,567
+"SEN","Senegal","Sub-Saharan Africa",2024,"website",0.394227850627674,35,0.424853818410854,567
+"SGP","Singapore","East Asia & Pacific",2023,"credit",0.184306468036423,66,0.289329564399059,556
+"SGP","Singapore","East Asia & Pacific",2023,"exports",0.15390147505407,67,0.167725961323793,556
+"SGP","Singapore","East Asia & Pacific",2023,"female_manager",0.337421520613388,67,0.203867828574483,556
+"SGP","Singapore","East Asia & Pacific",2023,"female_owner",0.460768772196505,67,0.346943214607666,555
+"SGP","Singapore","East Asia & Pacific",2023,"finance_major",0,67,0.0152404208477287,556
+"SGP","Singapore","East Asia & Pacific",2023,"new_product",0.18280408412579,67,0.185560833624223,556
+"SGP","Singapore","East Asia & Pacific",2023,"process",0.188034935025715,67,0.14403591253113,552
+"SGP","Singapore","East Asia & Pacific",2023,"quality_cert",0.106180071106467,67,0.172401684003526,551
+"SGP","Singapore","East Asia & Pacific",2023,"rnd",0.0403731116338095,67,0.0671797655766711,556
+"SGP","Singapore","East Asia & Pacific",2023,"website",0.67400904440776,67,0.639126212648889,556
+"SLB","Solomon Islands","East Asia & Pacific",2025,"credit",0.087103355134098,8,0.397712627661031,138
+"SLB","Solomon Islands","East Asia & Pacific",2025,"exports",0.087103355134098,8,0.0717685941479193,142
+"SLB","Solomon Islands","East Asia & Pacific",2025,"female_manager",0.580698072213195,8,0.195550339603781,142
+"SLB","Solomon Islands","East Asia & Pacific",2025,"female_owner",0.667801427347294,8,0.352390869002586,140
+"SLB","Solomon Islands","East Asia & Pacific",2025,"finance_major",0.575293122918634,8,0.15970857710004,139
+"SLB","Solomon Islands","East Asia & Pacific",2025,"new_product",0.337603521947268,8,0.270079861342253,142
+"SLB","Solomon Islands","East Asia & Pacific",2025,"process",0.174206710268196,8,0.18410937654375,141
+"SLB","Solomon Islands","East Asia & Pacific",2025,"quality_cert",0,8,0.131183874628705,132
+"SLB","Solomon Islands","East Asia & Pacific",2025,"rnd",0.0816984058395362,8,0.108526568898444,142
+"SLB","Solomon Islands","East Asia & Pacific",2025,"website",0.34300847124183,8,0.460643488359291,142
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"credit",0.088846276130992,59,0.202225183365237,150
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"exports",0.0331350033818243,59,0.100511113548397,149
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"female_manager",0.0564251450845017,59,0.152075627080334,149
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"female_owner",0.0868237172528822,59,0.22351148804281,149
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"finance_major",0.602241755050727,59,0.515460246764905,144
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"new_product",0.429700985023829,59,0.320381941658603,150
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"process",0.413740959837861,59,0.289661897747348,150
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"quality_cert",0.003523324199706,59,0.0103972982066284,150
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"rnd",0.117535245702741,59,0.0687163283458411,150
+"SLE","Sierra Leone","Sub-Saharan Africa",2023,"website",0.0674428134061906,59,0.183371354203438,150
+"SLV","El Salvador","Latin America & Caribbean",2023,"credit",0.589508072049878,135,0.548553093998442,572
+"SLV","El Salvador","Latin America & Caribbean",2023,"exports",0.33035751400359,136,0.155112058693445,593
+"SLV","El Salvador","Latin America & Caribbean",2023,"female_manager",0.228589507297782,135,0.25829339986844,593
+"SLV","El Salvador","Latin America & Caribbean",2023,"female_owner",0.545593348140726,135,0.556309324151488,583
+"SLV","El Salvador","Latin America & Caribbean",2023,"finance_major",0.152100944286718,134,0.157081419273308,581
+"SLV","El Salvador","Latin America & Caribbean",2023,"new_product",0.457486478865597,136,0.375538570330915,592
+"SLV","El Salvador","Latin America & Caribbean",2023,"process",0.330469951055898,135,0.199852218004461,590
+"SLV","El Salvador","Latin America & Caribbean",2023,"quality_cert",0.168569814740946,133,0.0576033978084331,574
+"SLV","El Salvador","Latin America & Caribbean",2023,"rnd",0.0907865825640326,135,0.0552346525460553,593
+"SLV","El Salvador","Latin America & Caribbean",2023,"website",0.663916041605203,136,0.698655131402311,590
+"SOM","Somalia","Sub-Saharan Africa",2025,"credit",0.0329008268317953,33,0.0550983815999072,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"exports",0.045049005056269,33,0.0726690169115279,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"female_manager",0.036469409199523,33,0.095921001581787,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"female_owner",0.0789437062771288,33,0.15050766602891,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"finance_major",0.51601538812864,33,0.406626158411863,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"new_product",0.561119134657736,33,0.445411687819691,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"process",0.3591046885839,33,0.302887137159254,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"quality_cert",0,33,0.00941519732216689,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"rnd",0.237957664436591,33,0.153448956552237,208
+"SOM","Somalia","Sub-Saharan Africa",2025,"website",0.625285780651804,33,0.491221242226888,208
+"SRB","Serbia","Europe & Central Asia",2024,"credit",0.48934441323037,61,0.46857001562803,434
+"SRB","Serbia","Europe & Central Asia",2024,"exports",0.569499316925868,60,0.274073391033669,440
+"SRB","Serbia","Europe & Central Asia",2024,"female_manager",0.263327975994869,61,0.202483022602266,440
+"SRB","Serbia","Europe & Central Asia",2024,"female_owner",0.308840601395559,61,0.27045016182242,435
+"SRB","Serbia","Europe & Central Asia",2024,"finance_major",0.122136376777593,61,0.0770199869408955,437
+"SRB","Serbia","Europe & Central Asia",2024,"new_product",0.402509217030767,61,0.190674046970191,440
+"SRB","Serbia","Europe & Central Asia",2024,"process",0.177631029360846,61,0.0969066829615073,438
+"SRB","Serbia","Europe & Central Asia",2024,"quality_cert",0.196286294640462,61,0.196393943416133,434
+"SRB","Serbia","Europe & Central Asia",2024,"rnd",0.136529772354489,61,0.0451849226054391,436
+"SRB","Serbia","Europe & Central Asia",2024,"website",0.641798588723237,60,0.607471412172924,441
+"SSD","South Sudan","Sub-Saharan Africa",2024,"credit",0.27803996324155,19,0.342888572977904,137
+"SSD","South Sudan","Sub-Saharan Africa",2024,"exports",0,19,0.096668571899846,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"female_manager",0.274400674168173,19,0.0927458413473978,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"female_owner",0.357401227828676,19,0.336844629242141,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"finance_major",0.26915329789361,19,0.384593953590455,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"new_product",0.334525879244519,19,0.420225696195102,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"process",0.27282769467068,19,0.173701147412743,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"quality_cert",0,19,0.0152456689131565,137
+"SSD","South Sudan","Sub-Saharan Africa",2024,"rnd",0,19,0.0726717564253939,138
+"SSD","South Sudan","Sub-Saharan Africa",2024,"website",0.240033184419019,19,0.269676270162625,137
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"credit",0,5,0.15955192915024,155
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"exports",0,5,0.0801206905285657,157
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"female_manager",0,5,0.256637433043033,159
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"female_owner",0.191951478315332,5,0.464514083951654,157
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"finance_major",1,5,0.420663013226821,150
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"new_product",0.424651647749935,5,0.326378651485043,159
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"process",0,5,0.189379266516345,158
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"quality_cert",0,5,0.0785335771555527,149
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"rnd",0,5,0.176402754314832,159
+"STP","São Tomé & Príncipe","Sub-Saharan Africa",2025,"website",0.191951478315332,5,0.484280168344145,159
+"SUR","Suriname","Latin America & Caribbean",2025,"credit",0.181907519028897,10,0.315171306243439,142
+"SUR","Suriname","Latin America & Caribbean",2025,"exports",0.602549588386396,10,0.0719847850991436,142
+"SUR","Suriname","Latin America & Caribbean",2025,"female_manager",0.139442954525581,10,0.247395521243179,141
+"SUR","Suriname","Latin America & Caribbean",2025,"female_owner",0.139442954525581,10,0.388657730439961,141
+"SUR","Suriname","Latin America & Caribbean",2025,"finance_major",0.209723474777539,10,0.162419161173318,140
+"SUR","Suriname","Latin America & Caribbean",2025,"new_product",0.883408940758371,10,0.383723628009152,141
+"SUR","Suriname","Latin America & Caribbean",2025,"process",0.372991472326512,10,0.270261168512995,141
+"SUR","Suriname","Latin America & Caribbean",2025,"quality_cert",0,10,0.0292934212096329,140
+"SUR","Suriname","Latin America & Caribbean",2025,"rnd",0.0460660599772686,10,0.100605652060141,142
+"SUR","Suriname","Latin America & Caribbean",2025,"website",1,10,0.717717751228812,142
+"SVK","Slovakia","Europe & Central Asia",2023,"credit",0.597037323402918,48,0.549807713313701,416
+"SVK","Slovakia","Europe & Central Asia",2023,"exports",0.617591445893296,48,0.40727523508369,415
+"SVK","Slovakia","Europe & Central Asia",2023,"female_manager",0.0938746923930567,48,0.217964465383432,416
+"SVK","Slovakia","Europe & Central Asia",2023,"female_owner",0.216331525150039,48,0.295926759213506,413
+"SVK","Slovakia","Europe & Central Asia",2023,"finance_major",0.159386818952361,48,0.134640962869879,415
+"SVK","Slovakia","Europe & Central Asia",2023,"new_product",0.492300373226557,48,0.36150837595917,415
+"SVK","Slovakia","Europe & Central Asia",2023,"process",0.3626135502249,48,0.248569720736207,414
+"SVK","Slovakia","Europe & Central Asia",2023,"quality_cert",0.254000524395517,48,0.184574166013789,411
+"SVK","Slovakia","Europe & Central Asia",2023,"rnd",0.290912144189009,48,0.125054515080308,416
+"SVK","Slovakia","Europe & Central Asia",2023,"website",0.83213236801259,48,0.779278332670649,416
+"SVN","Slovenia","Europe & Central Asia",2024,"credit",0.409861605760423,47,0.553923717057295,355
+"SVN","Slovenia","Europe & Central Asia",2024,"exports",0.90953773721946,47,0.456873051951918,354
+"SVN","Slovenia","Europe & Central Asia",2024,"female_manager",0.122810096855044,47,0.250375426686401,355
+"SVN","Slovenia","Europe & Central Asia",2024,"female_owner",0.364688168572219,46,0.347764416991253,351
+"SVN","Slovenia","Europe & Central Asia",2024,"finance_major",0.0457203359092497,47,0.0460029731685931,352
+"SVN","Slovenia","Europe & Central Asia",2024,"new_product",0.647850914651349,47,0.461292702337314,354
+"SVN","Slovenia","Europe & Central Asia",2024,"process",0.678257524264174,47,0.314348742556301,355
+"SVN","Slovenia","Europe & Central Asia",2024,"quality_cert",0.552897248199718,44,0.262909959139144,352
+"SVN","Slovenia","Europe & Central Asia",2024,"rnd",0.475852415298069,47,0.161836881753476,355
+"SVN","Slovenia","Europe & Central Asia",2024,"website",0.932811414070263,47,0.919453379806221,355
+"SWE","Sweden","Europe & Central Asia",2024,"credit",0.393266705573259,97,0.446737461465424,494
+"SWE","Sweden","Europe & Central Asia",2024,"exports",0.723826440328484,97,0.322688026890955,496
+"SWE","Sweden","Europe & Central Asia",2024,"female_manager",0.183778649860704,98,0.123603068727295,501
+"SWE","Sweden","Europe & Central Asia",2024,"female_owner",0.387011019533803,95,0.357284548531722,482
+"SWE","Sweden","Europe & Central Asia",2024,"finance_major",0.0122830563397711,98,0.0402381207911617,500
+"SWE","Sweden","Europe & Central Asia",2024,"new_product",0.705600344594623,98,0.566191883627209,501
+"SWE","Sweden","Europe & Central Asia",2024,"process",0.441919738408584,98,0.38403690819647,502
+"SWE","Sweden","Europe & Central Asia",2024,"quality_cert",0.285165771613203,92,0.296964106621671,485
+"SWE","Sweden","Europe & Central Asia",2024,"rnd",0.130658562105696,98,0.109207723577391,501
+"SWE","Sweden","Europe & Central Asia",2024,"website",0.981013518871248,98,0.912045108988373,502
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"credit",0.0439936220841664,20,0.137420833270578,132
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"exports",0.0751738572525294,20,0.0793718884921876,136
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"female_manager",0.234932918028834,20,0.34144954210215,136
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"female_owner",0.524820551741348,19,0.501551767300046,132
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"finance_major",0.44566689063418,20,0.209402228206752,136
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"new_product",0.0128133869158034,20,0.157603966944415,136
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"process",0.409474262345249,20,0.0178476150292756,136
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"quality_cert",0.062360470336726,20,0.1988226764366,129
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"rnd",0.0495470834209226,20,0.0615004965966456,136
+"SWZ","Eswatini","Sub-Saharan Africa",2024,"website",0.127144545146476,20,0.186003383372531,136
+"SYC","Seychelles","Sub-Saharan Africa",2023,"credit",0.167614598861172,3,0.43578511922039,100
+"SYC","Seychelles","Sub-Saharan Africa",2023,"exports",0,3,0.0799393520890987,100
+"SYC","Seychelles","Sub-Saharan Africa",2023,"female_manager",0,3,0.266571718283664,100
+"SYC","Seychelles","Sub-Saharan Africa",2023,"female_owner",0.832385401138828,3,0.603326720790636,100
+"SYC","Seychelles","Sub-Saharan Africa",2023,"finance_major",0.664770802277655,3,0.273772203902113,98
+"SYC","Seychelles","Sub-Saharan Africa",2023,"new_product",0.832385401138828,3,0.512053049704433,100
+"SYC","Seychelles","Sub-Saharan Africa",2023,"process",1,3,0.298530681671523,100
+"SYC","Seychelles","Sub-Saharan Africa",2023,"quality_cert",0,3,0.04153881028307,96
+"SYC","Seychelles","Sub-Saharan Africa",2023,"rnd",0.664770802277655,3,0.137140854707108,99
+"SYC","Seychelles","Sub-Saharan Africa",2023,"website",0.832385401138828,3,0.598288052562637,100
+"TCD","Chad","Sub-Saharan Africa",2023,"credit",0.122405759794056,55,0.0845912912263985,109
+"TCD","Chad","Sub-Saharan Africa",2023,"exports",0.0975231511178381,55,0.0395659134176584,109
+"TCD","Chad","Sub-Saharan Africa",2023,"female_manager",0.077221695912973,55,0.0874284749162088,109
+"TCD","Chad","Sub-Saharan Africa",2023,"female_owner",0.0570274471194054,55,0.121440591080757,109
+"TCD","Chad","Sub-Saharan Africa",2023,"finance_major",0.60373891068773,54,0.334429315055518,109
+"TCD","Chad","Sub-Saharan Africa",2023,"new_product",0.45983758158073,55,0.10734153718509,109
+"TCD","Chad","Sub-Saharan Africa",2023,"process",0.391773040036341,55,0.104729928184295,109
+"TCD","Chad","Sub-Saharan Africa",2023,"quality_cert",0.0214651116054689,55,0.0538960094667923,108
+"TCD","Chad","Sub-Saharan Africa",2023,"rnd",0.109772285210419,55,0.0632690338372794,109
+"TCD","Chad","Sub-Saharan Africa",2023,"website",0.218130395252372,55,0.19636382605243,109
+"TGO","Togo","Sub-Saharan Africa",2023,"credit",0.316322322724809,18,0.480559286032805,128
+"TGO","Togo","Sub-Saharan Africa",2023,"exports",0.557731090308175,19,0.246136264352648,129
+"TGO","Togo","Sub-Saharan Africa",2023,"female_manager",0.0889040235896701,19,0.134175569105044,129
+"TGO","Togo","Sub-Saharan Africa",2023,"female_owner",0.296339872983886,19,0.247046857245867,129
+"TGO","Togo","Sub-Saharan Africa",2023,"finance_major",0.260925610961998,18,0.439952362437725,128
+"TGO","Togo","Sub-Saharan Africa",2023,"new_product",0.209001047567165,19,0.21759595381959,129
+"TGO","Togo","Sub-Saharan Africa",2023,"process",0.271236994548522,19,0.127383576775664,129
+"TGO","Togo","Sub-Saharan Africa",2023,"quality_cert",0.100851043571403,19,0.0712703124465519,127
+"TGO","Togo","Sub-Saharan Africa",2023,"rnd",0.161448992931466,19,0.0808837604801533,128
+"TGO","Togo","Sub-Saharan Africa",2023,"website",0.382397060480364,19,0.560182442671847,129
+"THA","Thailand","East Asia & Pacific",2025,"credit",0.475173560698673,83,0.457514538293285,640
+"THA","Thailand","East Asia & Pacific",2025,"exports",0.166756182292776,86,0.064286179434066,726
+"THA","Thailand","East Asia & Pacific",2025,"female_manager",0.569015596957724,86,0.483010977668859,722
+"THA","Thailand","East Asia & Pacific",2025,"female_owner",0.655272865758722,85,0.60975290654746,718
+"THA","Thailand","East Asia & Pacific",2025,"finance_major",0.131059831046686,85,0.0455133509842691,706
+"THA","Thailand","East Asia & Pacific",2025,"new_product",0.138617273413035,86,0.192453143533528,725
+"THA","Thailand","East Asia & Pacific",2025,"process",0.0901133688983078,86,0.0716717877273842,722
+"THA","Thailand","East Asia & Pacific",2025,"quality_cert",0.193725390499455,83,0.113166016918873,700
+"THA","Thailand","East Asia & Pacific",2025,"rnd",0.0360347742480381,84,0.044457930315321,723
+"THA","Thailand","East Asia & Pacific",2025,"website",0.33359353744482,85,0.542530123696148,726
+"TJK","Tajikistan","Europe & Central Asia",2024,"credit",0.173686764126385,36,0.144872466190866,328
+"TJK","Tajikistan","Europe & Central Asia",2024,"exports",0.108227255439982,36,0.0212478245669663,328
+"TJK","Tajikistan","Europe & Central Asia",2024,"female_manager",0.0543150603458512,36,0.0673830566908369,328
+"TJK","Tajikistan","Europe & Central Asia",2024,"female_owner",0.0543150603458512,36,0.111210352178641,328
+"TJK","Tajikistan","Europe & Central Asia",2024,"finance_major",0.0921538024839691,36,0.134685516861748,327
+"TJK","Tajikistan","Europe & Central Asia",2024,"new_product",0.1187508257296,36,0.16338499829055,328
+"TJK","Tajikistan","Europe & Central Asia",2024,"process",0.0266942937975663,36,0.0913957045366577,324
+"TJK","Tajikistan","Europe & Central Asia",2024,"quality_cert",0.118005662904837,36,0.0959802912895773,321
+"TJK","Tajikistan","Europe & Central Asia",2024,"rnd",0.016808242210708,36,0.0688461037436495,325
+"TJK","Tajikistan","Europe & Central Asia",2024,"website",0.149755681862192,36,0.282941111357766,327
+"TKM","Turkmenistan","Europe & Central Asia",2024,"credit",0.231220536245603,47,0.12103445479305,262
+"TKM","Turkmenistan","Europe & Central Asia",2024,"exports",0.199484895574532,47,0.13850844882977,262
+"TKM","Turkmenistan","Europe & Central Asia",2024,"female_manager",0.0301722235538268,47,0.066007839447688,264
+"TKM","Turkmenistan","Europe & Central Asia",2024,"female_owner",0.108609151348136,47,0.103006121197679,264
+"TKM","Turkmenistan","Europe & Central Asia",2024,"finance_major",0.266503430516481,47,0.145903576739734,261
+"TKM","Turkmenistan","Europe & Central Asia",2024,"new_product",0.488938005104748,47,0.266077386819846,261
+"TKM","Turkmenistan","Europe & Central Asia",2024,"process",0.138045003327844,46,0.212001245749864,263
+"TKM","Turkmenistan","Europe & Central Asia",2024,"quality_cert",0.0564609868464315,46,0.0762759098215618,258
+"TKM","Turkmenistan","Europe & Central Asia",2024,"rnd",0.279907803565116,46,0.099477139798143,262
+"TKM","Turkmenistan","Europe & Central Asia",2024,"website",0.466661230959239,47,0.432767182562379,264
+"TLS","Timor-Leste","East Asia & Pacific",2021,"credit",0.0943256033836316,26,0.0825924910426103,211
+"TLS","Timor-Leste","East Asia & Pacific",2021,"exports",0.103688588664102,27,0.00562984090432523,210
+"TLS","Timor-Leste","East Asia & Pacific",2021,"female_manager",0.505026306292186,27,0.311969815521928,210
+"TLS","Timor-Leste","East Asia & Pacific",2021,"female_owner",0.476005676693273,27,0.257584218713913,211
+"TLS","Timor-Leste","East Asia & Pacific",2021,"finance_major",0.100158147271323,27,0.195189580000344,208
+"TLS","Timor-Leste","East Asia & Pacific",2021,"new_product",0.243333941536622,26,0.0299965539441724,211
+"TLS","Timor-Leste","East Asia & Pacific",2021,"process",0.243333941536622,26,0.0131201789899302,211
+"TLS","Timor-Leste","East Asia & Pacific",2021,"quality_cert",0,27,0.00410874321839565,206
+"TLS","Timor-Leste","East Asia & Pacific",2021,"rnd",0.0378316336717624,27,0.0590796497957206,211
+"TLS","Timor-Leste","East Asia & Pacific",2021,"website",0.42983739279826,27,0.315080864508112,211
+"TON","Tonga","East Asia & Pacific",2024,"credit",0.101266960975914,10,0.129478080894486,139
+"TON","Tonga","East Asia & Pacific",2024,"exports",0.172332760453348,10,0.0648166398841842,140
+"TON","Tonga","East Asia & Pacific",2024,"female_manager",0.218353460938148,10,0.305779745859299,140
+"TON","Tonga","East Asia & Pacific",2024,"female_owner",0.264374161422947,10,0.314350985563475,140
+"TON","Tonga","East Asia & Pacific",2024,"finance_major",0.138062101454399,10,0.139437241686195,140
+"TON","Tonga","East Asia & Pacific",2024,"new_product",0.172332760453348,10,0.167951040619219,140
+"TON","Tonga","East Asia & Pacific",2024,"process",0.101266960975914,10,0.130989942665838,140
+"TON","Tonga","East Asia & Pacific",2024,"quality_cert",0,10,0.0160805787918502,140
+"TON","Tonga","East Asia & Pacific",2024,"rnd",0,10,0.00428216360770992,140
+"TON","Tonga","East Asia & Pacific",2024,"website",0.698830698098568,10,0.691152340901687,140
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"credit",0.419501743994195,11,0.267921788534808,103
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"exports",0.382592435534675,11,0.120854576643138,102
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"female_manager",0.114102763113429,11,0.251775673594974,103
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"female_owner",0.617407564465325,11,0.470111842345663,103
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"finance_major",0.325541053977961,11,0.135274295751758,102
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"new_product",0.687991416415442,11,0.344157090879447,103
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"process",0.573888653302013,11,0.125820922128758,103
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"quality_cert",0.254957202027844,11,0.161067964775683,101
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"rnd",0.36245036243748,11,0.167267446553481,103
+"TTO","Trinidad & Tobago","Latin America & Caribbean",2025,"website",0.828845855329857,11,0.529075057120985,103
+"TUN","Tunisia","Middle East & North Africa",2024,"credit",0.321125558196171,146,0.320563089371247,490
+"TUN","Tunisia","Middle East & North Africa",2024,"exports",0.69425541760331,146,0.267367614976073,499
+"TUN","Tunisia","Middle East & North Africa",2024,"female_manager",0.10633689062513,146,0.0863526471816896,495
+"TUN","Tunisia","Middle East & North Africa",2024,"female_owner",0.167876406012401,145,0.189569914413498,495
+"TUN","Tunisia","Middle East & North Africa",2024,"finance_major",0.384815312238771,145,0.441524557315659,487
+"TUN","Tunisia","Middle East & North Africa",2024,"new_product",0.202416193105749,145,0.121718399354749,498
+"TUN","Tunisia","Middle East & North Africa",2024,"process",0.146071085301379,143,0.0828496806851561,496
+"TUN","Tunisia","Middle East & North Africa",2024,"quality_cert",0.247535828132696,135,0.195950401130095,481
+"TUN","Tunisia","Middle East & North Africa",2024,"rnd",0.179584723956162,146,0.122447328636463,497
+"TUN","Tunisia","Middle East & North Africa",2024,"website",0.559492861632317,146,0.632298406818934,498
+"TUR","Türkiye","Europe & Central Asia",2024,"credit",0.268029335663051,249,0.261166196399981,1139
+"TUR","Türkiye","Europe & Central Asia",2024,"exports",0.245226833591439,253,0.0892088508579839,1140
+"TUR","Türkiye","Europe & Central Asia",2024,"female_manager",0.100603687013445,254,0.0935782370190211,1160
+"TUR","Türkiye","Europe & Central Asia",2024,"female_owner",0.141626160420091,252,0.160270807581739,1157
+"TUR","Türkiye","Europe & Central Asia",2024,"finance_major",0.161153606798215,252,0.261356863954298,1154
+"TUR","Türkiye","Europe & Central Asia",2024,"new_product",0.136387512264038,252,0.0681414045508921,1154
+"TUR","Türkiye","Europe & Central Asia",2024,"process",0.0693719363266317,252,0.0625234829223113,1149
+"TUR","Türkiye","Europe & Central Asia",2024,"quality_cert",0.346239414637881,237,0.243993504959822,1097
+"TUR","Türkiye","Europe & Central Asia",2024,"rnd",0.0357434160239572,249,0.0543730757058487,1152
+"TUR","Türkiye","Europe & Central Asia",2024,"website",0.468941060543177,254,0.494863851298466,1160
+"TWN","Taiwan, China","East Asia & Pacific",2024,"credit",0.600212439030477,100,0.587830421481048,494
+"TWN","Taiwan, China","East Asia & Pacific",2024,"exports",0.645792426938222,103,0.425274064441948,505
+"TWN","Taiwan, China","East Asia & Pacific",2024,"female_manager",0.262753823894897,103,0.202502861412768,509
+"TWN","Taiwan, China","East Asia & Pacific",2024,"female_owner",0.678239708717858,103,0.595953943060102,503
+"TWN","Taiwan, China","East Asia & Pacific",2024,"finance_major",0.00793042941255966,103,0.0234778448548831,507
+"TWN","Taiwan, China","East Asia & Pacific",2024,"new_product",0.834987170036356,103,0.730939598099209,508
+"TWN","Taiwan, China","East Asia & Pacific",2024,"process",0.714199784541427,103,0.506667581784199,507
+"TWN","Taiwan, China","East Asia & Pacific",2024,"quality_cert",0.315240409736739,100,0.362509210549016,500
+"TWN","Taiwan, China","East Asia & Pacific",2024,"rnd",0.650139725927016,103,0.537830957717063,508
+"TWN","Taiwan, China","East Asia & Pacific",2024,"website",0.851143003023822,103,0.787306808384,509
+"TZA","Tanzania","Sub-Saharan Africa",2023,"credit",0.042382499712606,60,0.18211415387884,522
+"TZA","Tanzania","Sub-Saharan Africa",2023,"exports",0.149443106452248,60,0.145249387833283,530
+"TZA","Tanzania","Sub-Saharan Africa",2023,"female_manager",0.184005969483071,62,0.173937872588286,537
+"TZA","Tanzania","Sub-Saharan Africa",2023,"female_owner",0.167072867825191,62,0.127880104990181,527
+"TZA","Tanzania","Sub-Saharan Africa",2023,"finance_major",0.413623832504892,62,0.403841367760508,537
+"TZA","Tanzania","Sub-Saharan Africa",2023,"new_product",0.180367697069507,62,0.136390604849919,537
+"TZA","Tanzania","Sub-Saharan Africa",2023,"process",0.0872303211862601,62,0.0962346137828934,535
+"TZA","Tanzania","Sub-Saharan Africa",2023,"quality_cert",0.0053301966106829,59,0.0278088977090494,525
+"TZA","Tanzania","Sub-Saharan Africa",2023,"rnd",0.00417810848790019,62,0.0247930540384699,534
+"TZA","Tanzania","Sub-Saharan Africa",2023,"website",0.264583789778898,62,0.35253114007506,537
+"UGA","Uganda","Sub-Saharan Africa",2025,"credit",0.378005805941031,47,0.251456087509022,553
+"UGA","Uganda","Sub-Saharan Africa",2025,"exports",0.0337310422196305,47,0.156659739942125,558
+"UGA","Uganda","Sub-Saharan Africa",2025,"female_manager",0.322162977794066,47,0.219504601443268,558
+"UGA","Uganda","Sub-Saharan Africa",2025,"female_owner",0.414352274986962,47,0.26912995898768,552
+"UGA","Uganda","Sub-Saharan Africa",2025,"finance_major",0.447637740043236,47,0.202587970277442,555
+"UGA","Uganda","Sub-Saharan Africa",2025,"new_product",0.272211908130714,47,0.319244302145247,558
+"UGA","Uganda","Sub-Saharan Africa",2025,"process",0.166779023661792,47,0.195933941075352,558
+"UGA","Uganda","Sub-Saharan Africa",2025,"quality_cert",0.123364380451112,47,0.112840696413107,554
+"UGA","Uganda","Sub-Saharan Africa",2025,"rnd",0.00127286301119778,47,0.113435996600998,557
+"UGA","Uganda","Sub-Saharan Africa",2025,"website",0.21331756726719,47,0.326226852738444,558
+"UKR","Ukraine","Europe & Central Asia",2019,"credit",0.233312863014998,342,0.218876820685683,973
+"UKR","Ukraine","Europe & Central Asia",2019,"exports",0.261271902208956,342,0.151885337493825,990
+"UKR","Ukraine","Europe & Central Asia",2019,"female_manager",0.181791731235928,343,0.17588810744479,993
+"UKR","Ukraine","Europe & Central Asia",2019,"female_owner",0.372189903356063,339,0.388150614199111,988
+"UKR","Ukraine","Europe & Central Asia",2019,"finance_major",0.375849392305245,330,0.478836709437496,961
+"UKR","Ukraine","Europe & Central Asia",2019,"new_product",0.522236681968712,341,0.300054604457972,988
+"UKR","Ukraine","Europe & Central Asia",2019,"process",0.196305784412145,340,0.125405840521326,969
+"UKR","Ukraine","Europe & Central Asia",2019,"quality_cert",0.125869315504981,338,0.108632292796768,957
+"UKR","Ukraine","Europe & Central Asia",2019,"rnd",0.109565109957844,342,0.0968864202972935,987
+"UKR","Ukraine","Europe & Central Asia",2019,"website",0.808782138272863,341,0.609484813613958,991
+"URY","Uruguay","Latin America & Caribbean",2024,"credit",0.683081282140787,30,0.637464289712032,329
+"URY","Uruguay","Latin America & Caribbean",2024,"exports",0.311820123643889,30,0.100570002592871,330
+"URY","Uruguay","Latin America & Caribbean",2024,"female_manager",0.0102900057660058,30,0.208252183837191,329
+"URY","Uruguay","Latin America & Caribbean",2024,"female_owner",0.282668425226548,30,0.517769813809269,328
+"URY","Uruguay","Latin America & Caribbean",2024,"finance_major",0.303039914447882,30,0.175097504937245,327
+"URY","Uruguay","Latin America & Caribbean",2024,"new_product",0.778613307778784,30,0.720832104034111,329
+"URY","Uruguay","Latin America & Caribbean",2024,"process",0.535060381739713,30,0.5374573562102,330
+"URY","Uruguay","Latin America & Caribbean",2024,"quality_cert",0.245827114700827,29,0.075373074622741,320
+"URY","Uruguay","Latin America & Caribbean",2024,"rnd",0.369466734390242,30,0.138475642422385,329
+"URY","Uruguay","Latin America & Caribbean",2024,"website",0.729363407704175,30,0.81342910548423,330
+"USA","US","North America",2024,"credit",0.2391395251141,180,0.341648225151285,2285
+"USA","US","North America",2024,"exports",0.264253773000339,183,0.0947266145058651,2404
+"USA","US","North America",2024,"female_manager",0.158016375300858,183,0.234302123335684,2404
+"USA","US","North America",2024,"female_owner",0.271865405203432,179,0.31444282955225,2353
+"USA","US","North America",2024,"finance_major",0.0437379349114084,182,0.0603984444167462,2383
+"USA","US","North America",2024,"new_product",0.18939182394741,184,0.0695548828505876,2403
+"USA","US","North America",2024,"process",0.104968066079018,184,0.0738464527848343,2402
+"USA","US","North America",2024,"quality_cert",0.150288126432438,180,0.0664701789174994,2360
+"USA","US","North America",2024,"rnd",0.242036586128242,183,0.12015833414619,2388
+"USA","US","North America",2024,"website",0.898430652452403,184,0.896017822850126,2405
+"UZB","Uzbekistan","Europe & Central Asia",2024,"credit",0.121850427805619,208,0.122689232141691,783
+"UZB","Uzbekistan","Europe & Central Asia",2024,"exports",0.136246019557563,209,0.0292001742161806,785
+"UZB","Uzbekistan","Europe & Central Asia",2024,"female_manager",0.148467856080252,211,0.119889907004164,787
+"UZB","Uzbekistan","Europe & Central Asia",2024,"female_owner",0.302232525003089,212,0.28707684811902,790
+"UZB","Uzbekistan","Europe & Central Asia",2024,"finance_major",0.0475385303648188,211,0.0130772421929943,789
+"UZB","Uzbekistan","Europe & Central Asia",2024,"new_product",0.279130055394849,205,0.132600835722923,773
+"UZB","Uzbekistan","Europe & Central Asia",2024,"process",0.175344780620589,203,0.101411265873673,775
+"UZB","Uzbekistan","Europe & Central Asia",2024,"quality_cert",0.0684696714514552,199,0.0279524391735565,760
+"UZB","Uzbekistan","Europe & Central Asia",2024,"rnd",0.0654446819680881,209,0.0265403274779627,780
+"UZB","Uzbekistan","Europe & Central Asia",2024,"website",0.39591427575742,204,0.309763204059239,785
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"credit",0,2,0.366357554315546,97
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"exports",0.616375545168775,2,0.191904944787028,97
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"female_manager",0,2,0.220922871335854,102
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"female_owner",1,2,0.396700294413806,102
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"finance_major",0.383624454831225,2,0.189441292531383,101
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"new_product",0,2,0.555545144603264,102
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"process",0,2,0.350056142409968,102
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"quality_cert",0,2,0.113788113345152,94
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"rnd",0.383624454831225,2,0.149064182500172,100
+"VCT","St. Vincent & Grenadines","Latin America & Caribbean",2025,"website",0.616375545168775,2,0.674533071189008,102
+"VNM","Vietnam","East Asia & Pacific",2023,"credit",0.477234408212928,223,0.39689250249657,767
+"VNM","Vietnam","East Asia & Pacific",2023,"exports",0.359564351065585,231,0.0632642480021598,793
+"VNM","Vietnam","East Asia & Pacific",2023,"female_manager",0.199369575211008,231,0.19336967668465,796
+"VNM","Vietnam","East Asia & Pacific",2023,"female_owner",0.210445715030789,230,0.252463719940231,793
+"VNM","Vietnam","East Asia & Pacific",2023,"finance_major",0.0684177925029039,223,0.0929336373130477,764
+"VNM","Vietnam","East Asia & Pacific",2023,"new_product",0.080065818014785,230,0.0748602841937381,792
+"VNM","Vietnam","East Asia & Pacific",2023,"process",0.106378190484884,226,0.070790664599804,785
+"VNM","Vietnam","East Asia & Pacific",2023,"quality_cert",0.203969027087906,223,0.0518561099206807,776
+"VNM","Vietnam","East Asia & Pacific",2023,"rnd",0.0219580816494319,231,0.048235686345193,788
+"VNM","Vietnam","East Asia & Pacific",2023,"website",0.515978638147122,231,0.432704985921806,797
+"VUT","Vanuatu","East Asia & Pacific",2023,"credit",0,3,0.278973892164373,102
+"VUT","Vanuatu","East Asia & Pacific",2023,"exports",0.419918321685082,3,0.145200598956515,96
+"VUT","Vanuatu","East Asia & Pacific",2023,"female_manager",0,3,0.40730793991217,108
+"VUT","Vanuatu","East Asia & Pacific",2023,"female_owner",0.35655616204391,3,0.423745541056086,104
+"VUT","Vanuatu","East Asia & Pacific",2023,"finance_major",0,3,0.199078792661723,105
+"VUT","Vanuatu","East Asia & Pacific",2023,"new_product",0.223525516271009,3,0.32905178004235,106
+"VUT","Vanuatu","East Asia & Pacific",2023,"process",0,3,0.183607449379958,106
+"VUT","Vanuatu","East Asia & Pacific",2023,"quality_cert",0,3,0.0275380199368469,99
+"VUT","Vanuatu","East Asia & Pacific",2023,"rnd",0,3,0.0664562640960437,108
+"VUT","Vanuatu","East Asia & Pacific",2023,"website",1,3,0.650692958499339,107
+"WSM","Samoa","East Asia & Pacific",2023,"credit",0.566229486669678,12,0.455764889275641,143
+"WSM","Samoa","East Asia & Pacific",2023,"exports",0.399414242442438,13,0.097325826236061,144
+"WSM","Samoa","East Asia & Pacific",2023,"female_manager",0.431130748373458,13,0.482486586477478,144
+"WSM","Samoa","East Asia & Pacific",2023,"female_owner",0.476116438914439,13,0.553519560783593,144
+"WSM","Samoa","East Asia & Pacific",2023,"finance_major",0.0704969783709737,11,0.13269340783992,141
+"WSM","Samoa","East Asia & Pacific",2023,"new_product",0.599376255686415,13,0.46478026424176,142
+"WSM","Samoa","East Asia & Pacific",2023,"process",0.0245543093849047,13,0.19108583920628,142
+"WSM","Samoa","East Asia & Pacific",2023,"quality_cert",0.0695399999258858,13,0.0325036195091061,142
+"WSM","Samoa","East Asia & Pacific",2023,"rnd",0.0650049416210333,13,0.119971349222068,144
+"WSM","Samoa","East Asia & Pacific",2023,"website",0.8049851751369,13,0.586454237642261,144
+"XKX","Kosovo","Europe & Central Asia",2025,"credit",0.87497829101901,51,0.67912597693343,218
+"XKX","Kosovo","Europe & Central Asia",2025,"exports",0.82096778587037,51,0.235802845447023,218
+"XKX","Kosovo","Europe & Central Asia",2025,"female_manager",0.118836589768853,51,0.0898048041579267,218
+"XKX","Kosovo","Europe & Central Asia",2025,"female_owner",0.130034911318452,51,0.138177353738477,218
+"XKX","Kosovo","Europe & Central Asia",2025,"finance_major",0.520309196615238,51,0.189379972475788,218
+"XKX","Kosovo","Europe & Central Asia",2025,"new_product",0.292040031578075,51,0.306457025440072,218
+"XKX","Kosovo","Europe & Central Asia",2025,"process",0.454066824710253,51,0.317330260052741,218
+"XKX","Kosovo","Europe & Central Asia",2025,"quality_cert",0.405741407093022,51,0.150983432570081,216
+"XKX","Kosovo","Europe & Central Asia",2025,"rnd",0,51,0.092674685634162,218
+"XKX","Kosovo","Europe & Central Asia",2025,"website",0.951546401902153,51,0.924412464814605,218
+"ZAF","South Africa","Sub-Saharan Africa",2020,"credit",0.0557901268126905,178,0.046404511957643,900
+"ZAF","South Africa","Sub-Saharan Africa",2020,"exports",0.188507323168906,179,0.0917463107063528,895
+"ZAF","South Africa","Sub-Saharan Africa",2020,"female_manager",0.33031089014354,180,0.39482554409223,915
+"ZAF","South Africa","Sub-Saharan Africa",2020,"female_owner",0.0945705236381669,179,0.108229946147142,902
+"ZAF","South Africa","Sub-Saharan Africa",2020,"finance_major",0.0939501163400451,179,0.0854440693037482,906
+"ZAF","South Africa","Sub-Saharan Africa",2020,"new_product",0.0425808164964846,182,0.0378428963982167,915
+"ZAF","South Africa","Sub-Saharan Africa",2020,"process",0.0256540728039887,180,0.0131017935058766,913
+"ZAF","South Africa","Sub-Saharan Africa",2020,"quality_cert",0.0762522978185482,180,0.0519807725944505,905
+"ZAF","South Africa","Sub-Saharan Africa",2020,"rnd",0.172212646365122,181,0.235310353721626,913
+"ZAF","South Africa","Sub-Saharan Africa",2020,"website",0.774974360475673,182,0.799743137372067,914
+"ZMB","Zambia","Sub-Saharan Africa",2019,"credit",0.0944490480847686,67,0.101875429920362,532
+"ZMB","Zambia","Sub-Saharan Africa",2019,"exports",0.0389190788556694,67,0.153306898808101,530
+"ZMB","Zambia","Sub-Saharan Africa",2019,"female_manager",0.150430218829779,67,0.126767753483765,533
+"ZMB","Zambia","Sub-Saharan Africa",2019,"female_owner",0.301271203256293,66,0.428203284905475,528
+"ZMB","Zambia","Sub-Saharan Africa",2019,"finance_major",0.394552548207211,67,0.401982319345672,532
+"ZMB","Zambia","Sub-Saharan Africa",2019,"new_product",0.336639862216487,67,0.280776207214672,534
+"ZMB","Zambia","Sub-Saharan Africa",2019,"process",0.12944329066315,67,0.0957850720468255,534
+"ZMB","Zambia","Sub-Saharan Africa",2019,"quality_cert",0.0187324509949582,64,0.0862387205653724,516
+"ZMB","Zambia","Sub-Saharan Africa",2019,"rnd",0.265234949506819,67,0.129798013664905,532
+"ZMB","Zambia","Sub-Saharan Africa",2019,"website",0.533868387377198,67,0.596535626880383,533
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"credit",0.121044778384147,37,0.238743001321113,317
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"exports",0.0813514377018631,38,0.118470659197468,321
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"female_manager",0.524976538708499,38,0.152339283598082,319
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"female_owner",0.61533402215398,38,0.461280817803225,316
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"finance_major",0.0591538047904861,38,0.291297672359534,321
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"new_product",0.629317644673363,37,0.368965354502415,320
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"process",0.608890577094625,38,0.223434131928447,322
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"quality_cert",0.140442387307277,38,0.325957997927581,316
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"rnd",0.104234961346634,38,0.130154616524557,322
+"ZWE","Zimbabwe","Sub-Saharan Africa",2025,"website",0.849457407930695,38,0.644583741837489,322

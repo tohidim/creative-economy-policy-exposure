@@ -1,0 +1,35 @@
+"family","outcome","exposure_group","weighted_mean","firms","label","unit","scale","value"
+"Brand development and positioning","e33","High",0.362690109172646,2249,"Pricing power","share",100,36.2690109172646
+"Brand development and positioning","e33","Low",0.234177161429578,4245,"Pricing power","share",100,23.4177161429578
+"Brand development and positioning","f1","High",75.8163173328456,2615,"Capacity utilization (%)","pct",1,75.8163173328456
+"Brand development and positioning","f1","Low",74.9804526593759,5969,"Capacity utilization (%)","pct",1,74.9804526593759
+"Brand development and positioning","r8","High",0.553286722558648,2123,"Performance bonuses for production targets","share",100,55.3286722558648
+"Brand development and positioning","r8","Low",0.419292176201186,5133,"Performance bonuses for production targets","share",100,41.9292176201186
+"Digital capabilities and commerce","k35","High",1.52705005498252,2275,"Days to receive e-payments","days",1,1.52705005498252
+"Digital capabilities and commerce","k35","Low",2.62347506838672,4107,"Days to receive e-payments","days",1,2.62347506838672
+"Digital capabilities and commerce","l11a","High",58.0554681046282,1260,"Production workers trained (%)","pct",1,58.0554681046282
+"Digital capabilities and commerce","l11a","Low",53.5178808537344,1132,"Production workers trained (%)","pct",1,53.5178808537344
+"Finance and financial capability","finance_obstacle_any","High",0.570140454579252,5477,"Reports any finance obstacle","share",100,57.0140454579252
+"Finance and financial capability","finance_obstacle_any","Low",0.6278642577389,4862,"Reports any finance obstacle","share",100,62.78642577389
+"Finance and financial capability","k21","High",0.535452106136112,5494,"Externally certified financial statements","share",100,53.5452106136112
+"Finance and financial capability","k21","Low",0.440609292552599,4875,"Externally certified financial statements","share",100,44.0609292552599
+"Finance and financial capability","k4","High",0.470857205164968,5534,"Purchased fixed assets","share",100,47.0857205164968
+"Finance and financial capability","k4","Low",0.39922513793762,4880,"Purchased fixed assets","share",100,39.922513793762
+"Intellectual property","h5","High",0.32873120872412,3436,"Introduced an improved process","share",100,32.873120872412
+"Intellectual property","h5","Low",0.257295315957838,7003,"Introduced an improved process","share",100,25.7295315957838
+"Intellectual property","r8","High",0.554784082535217,2255,"Performance bonuses for production targets","share",100,55.4784082535217
+"Intellectual property","r8","Low",0.41786131516689,5001,"Performance bonuses for production targets","share",100,41.786131516689
+"Market leverage and access","d14a","High",6.49709188697027,633,"Import customs clearance (days)","days",1,6.49709188697027
+"Market leverage and access","d14a","Low",9.64596527124196,640,"Import customs clearance (days)","days",1,9.64596527124196
+"Market leverage and access","d40a","High",14.8572146004089,412,"Import clearance, all border agencies (days)","days",1,14.8572146004089
+"Market leverage and access","d40a","Low",17.9245756982285,382,"Import clearance, all border agencies (days)","days",1,17.9245756982285
+"Overall policy count","any_exports","High",0.374945092878524,6082,"Any direct or indirect exports","share",100,37.4945092878524
+"Overall policy count","any_exports","Low",0.3491316625114,4284,"Any direct or indirect exports","share",100,34.91316625114
+"Overall policy count","h2","High",0.703107033074711,1567,"New-to-market products or services","share",100,70.3107033074711
+"Overall policy count","h2","Low",0.615815521030821,975,"New-to-market products or services","share",100,61.5815521030821
+"Sustainability, standards and certification","c43","High",0.169423960530707,878,"On-site solar panels","share",100,16.9423960530707
+"Sustainability, standards and certification","c43","Low",0.0870273793539369,543,"On-site solar panels","share",100,8.70273793539369
+"Sustainability, standards and certification","ge8d","High",0.360713357214051,2823,"Energy-management measures","share",100,36.0713357214051
+"Sustainability, standards and certification","ge8d","Low",0.43135077523812,4341,"Energy-management measures","share",100,43.135077523812
+"Sustainability, standards and certification","h5","High",0.323009865506523,3315,"Introduced an improved process","share",100,32.3009865506523
+"Sustainability, standards and certification","h5","Low",0.263053463866611,7124,"Introduced an improved process","share",100,26.3053463866611

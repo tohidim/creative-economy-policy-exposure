@@ -1,0 +1,42 @@
+# Public repository: allowlist. Everything is ignored unless listed below.
+/*
+!/.gitignore
+!/README.md
+!/code/
+!/data/
+!/output/
+!/paper/
+!/docs/
+
+# Code (all of it)
+**/__pycache__/
+**/.DS_Store
+
+# Data: only small public inputs and derived policy scores (no survey microdata)
+/data/*
+!/data/mappings/
+!/data/semantic_scores/
+!/data/external/
+/data/external/*
+!/data/external/analysis_inputs/
+*.dta
+*.rds
+*.gz
+
+# Outputs: aggregate result tables and figures only
+/output/*
+!/output/tables/
+!/output/figures/
+!/output/wipo_sample_20261120/
+
+# Paper: the work-sample sources and PDFs only
+/paper/*
+!/paper/wipo_sample/
+/paper/wipo_sample/note.*
+/paper/wipo_sample/*.log
+*.aux
+*.fls
+*.fdb_latexmk
+*.xdv
+*.out
+~$*

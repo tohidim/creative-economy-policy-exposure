@@ -1,0 +1,35 @@
+family,outcome,exposure_group,weighted_mean,firms
+Brand development and positioning,e33,High,.362690109172646,2249
+Brand development and positioning,e33,Low,.2341771614295783,4245
+Brand development and positioning,f1,High,75.81631733284561,2615
+Brand development and positioning,f1,Low,74.98045265937594,5969
+Brand development and positioning,r8,High,.5532867225586482,2123
+Brand development and positioning,r8,Low,.4192921762011856,5133
+Digital capabilities and commerce,k35,High,1.527050054982524,2275
+Digital capabilities and commerce,k35,Low,2.623475068386723,4107
+Digital capabilities and commerce,l11a,High,58.05546810462821,1260
+Digital capabilities and commerce,l11a,Low,53.51788085373437,1132
+Finance and financial capability,finance_obstacle_any,High,.5701404545792522,5477
+Finance and financial capability,finance_obstacle_any,Low,.6278642577389001,4862
+Finance and financial capability,k21,High,.5354521061361125,5494
+Finance and financial capability,k21,Low,.4406092925525992,4875
+Finance and financial capability,k4,High,.4708572051649684,5534
+Finance and financial capability,k4,Low,.3992251379376195,4880
+Intellectual property,h5,High,.3287312087241202,3436
+Intellectual property,h5,Low,.2572953159578378,7003
+Intellectual property,r8,High,.5547840825352167,2255
+Intellectual property,r8,Low,.41786131516689,5001
+Market leverage and access,d14a,High,6.497091886970273,633
+Market leverage and access,d14a,Low,9.645965271241959,640
+Market leverage and access,d40a,High,14.85721460040893,412
+Market leverage and access,d40a,Low,17.92457569822853,382
+Overall policy count,any_exports,High,.3749450928785235,6082
+Overall policy count,any_exports,Low,.3491316625113999,4284
+Overall policy count,h2,High,.7031070330747109,1567
+Overall policy count,h2,Low,.6158155210308214,975
+"Sustainability, standards and certification",c43,High,.1694239605307069,878
+"Sustainability, standards and certification",c43,Low,.0870273793539369,543
+"Sustainability, standards and certification",ge8d,High,.3607133572140512,2823
+"Sustainability, standards and certification",ge8d,Low,.4313507752381204,4341
+"Sustainability, standards and certification",h5,High,.3230098655065228,3315
+"Sustainability, standards and certification",h5,Low,.2630534638666109,7124

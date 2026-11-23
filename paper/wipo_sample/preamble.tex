@@ -1,0 +1,35 @@
+% Shared preamble for the main text and the appendix. Compile with XeLaTeX.
+\usepackage[a4paper, margin=2.5cm, headheight=14pt]{geometry}
+\usepackage{fontspec}
+\setmainfont{Charter}
+\setsansfont{Helvetica Neue}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\definecolor{accent}{HTML}{2A78D6}
+\definecolor{ink2}{HTML}{52514E}
+\definecolor{boxbg}{HTML}{F1F6FD}
+\usepackage[font=small, labelfont=bf, justification=raggedright, singlelinecheck=false, skip=4pt]{caption}
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.6em}{}
+\titlespacing*{\section}{0pt}{1.4em}{0.5em}
+\titlespacing*{\subsection}{0pt}{1.1em}{0.4em}
+\usepackage{enumitem}
+\setlist{itemsep=2pt, topsep=4pt}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{float}
+\usepackage{microtype}
+\usepackage[hidelinks]{hyperref}
+\setlength{\parskip}{0.35em}
+\setlength{\parindent}{0pt}
+\linespread{1.08}
+
+\newcommand{\figsource}[1]{\par\vspace{2pt}{\footnotesize #1}}
+\newcommand{\keybox}[1]{%
+  \par\noindent\colorbox{boxbg}{\parbox{\dimexpr\linewidth-2\fboxsep}{\vspace{6pt}#1\vspace{4pt}}}\par}

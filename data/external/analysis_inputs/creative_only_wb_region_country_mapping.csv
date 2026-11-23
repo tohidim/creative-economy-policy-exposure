@@ -1,0 +1,73 @@
+Policy country,ISO2,WBES country,World Bank region,World Bank source country name,Original UNESCO region
+China,CN,China,East Asia and Pacific,China,Asia and the Pacific
+Indonesia,ID,Indonesia,East Asia and Pacific,Indonesia,Asia and the Pacific
+Mongolia,MN,Mongolia,East Asia and Pacific,Mongolia,Asia and the Pacific
+Republic of Korea,KR,Republic of Korea,East Asia and Pacific,"Korea, Rep.",Asia and the Pacific
+Timor-Leste,TL,Timor-Leste,East Asia and Pacific,Timor-Leste,Asia and the Pacific
+Viet Nam,VN,Viet Nam,East Asia and Pacific,Viet Nam,Asia and the Pacific
+Armenia,AM,Armenia,Europe and Central Asia,Armenia,Europe and North America
+Austria,AT,Austria,Europe and Central Asia,Austria,Europe and North America
+Azerbaijan,AZ,Azerbaijan,Europe and Central Asia,Azerbaijan,Europe and North America
+Belgium,BE,Belgium,Europe and Central Asia,Belgium,Europe and North America
+Bulgaria,BG,Bulgaria,Europe and Central Asia,Bulgaria,Europe and North America
+Croatia,HR,Croatia,Europe and Central Asia,Croatia,Europe and North America
+Cyprus,CY,Cyprus,Europe and Central Asia,Cyprus,Europe and North America
+Czechia,CZ,Czechia,Europe and Central Asia,Czechia,Europe and North America
+Denmark,DK,Denmark,Europe and Central Asia,Denmark,Europe and North America
+Estonia,EE,Estonia,Europe and Central Asia,Estonia,Europe and North America
+Finland,FI,Finland,Europe and Central Asia,Finland,Europe and North America
+France,FR,France,Europe and Central Asia,France,Europe and North America
+Georgia,GE,Georgia,Europe and Central Asia,Georgia,Europe and North America
+Germany,DE,Germany,Europe and Central Asia,Germany,Europe and North America
+Iceland,IS,Iceland,Europe and Central Asia,Iceland,Europe and North America
+Ireland,IE,Ireland,Europe and Central Asia,Ireland,Europe and North America
+Italy,IT,Italy,Europe and Central Asia,Italy,Europe and North America
+Latvia,LV,Latvia,Europe and Central Asia,Latvia,Europe and North America
+Montenegro,ME,Montenegro,Europe and Central Asia,Montenegro,Europe and North America
+Norway,NO,Norway,Europe and Central Asia,Norway,Europe and North America
+Poland,PL,Poland,Europe and Central Asia,Poland,Europe and North America
+Romania,RO,Romania,Europe and Central Asia,Romania,Europe and North America
+Serbia,RS,Serbia,Europe and Central Asia,Serbia,Europe and North America
+Slovakia,SK,Slovakia,Europe and Central Asia,Slovak Republic,Europe and North America
+Slovenia,SI,Slovenia,Europe and Central Asia,Slovenia,Europe and North America
+Spain,ES,Spain,Europe and Central Asia,Spain,Europe and North America
+Sweden,SE,Sweden,Europe and Central Asia,Sweden,Europe and North America
+Switzerland,CH,Switzerland,Europe and Central Asia,Switzerland,Europe and North America
+Türkiye,TR,Türkiye,Europe and Central Asia,Türkiye,Europe and North America
+Bolivia (Plurinational State of),BO,Bolivia (Plurinational State of),Latin America & the Caribbean,Bolivia,Latin America and the Caribbean
+Colombia,CO,Colombia,Latin America & the Caribbean,Colombia,Latin America and the Caribbean
+Ecuador,EC,Ecuador,Latin America & the Caribbean,Ecuador,Latin America and the Caribbean
+El Salvador,SV,El Salvador,Latin America & the Caribbean,El Salvador,Latin America and the Caribbean
+Jamaica,JM,Jamaica,Latin America & the Caribbean,Jamaica,Latin America and the Caribbean
+Mexico,MX,Mexico,Latin America & the Caribbean,Mexico,Latin America and the Caribbean
+Paraguay,PY,Paraguay,Latin America & the Caribbean,Paraguay,Latin America and the Caribbean
+Peru,PE,Peru,Latin America & the Caribbean,Peru,Latin America and the Caribbean
+Saint Lucia,LC,Saint Lucia,Latin America & the Caribbean,St. Lucia,Latin America and the Caribbean
+Uruguay,UY,Uruguay,Latin America & the Caribbean,Uruguay,Latin America and the Caribbean
+Djibouti,DJ,Djibouti,"Middle East, North Africa, Afghanistan and Pakistan",Djibouti,Africa
+Egypt,EG,Egypt,"Middle East, North Africa, Afghanistan and Pakistan","Egypt, Arab Rep.",Arab States
+Qatar,QA,Qatar,"Middle East, North Africa, Afghanistan and Pakistan",Qatar,Arab States
+State of Palestine,PS,State of Palestine,"Middle East, North Africa, Afghanistan and Pakistan",West Bank and Gaza,Arab States
+Canada,CA,Canada,North America,Canada,Europe and North America
+Bangladesh,BD,Bangladesh,South Asia,Bangladesh,Asia and the Pacific
+India,IN,India,South Asia,India,Asia and the Pacific
+Burkina Faso,BF,Burkina Faso,Sub-Saharan Africa,Burkina Faso,Africa
+Cameroon,CM,Cameroon,Sub-Saharan Africa,Cameroon,Africa
+Eswatini,SZ,Eswatini,Sub-Saharan Africa,Eswatini,Africa
+Ethiopia,ET,Ethiopia,Sub-Saharan Africa,Ethiopia,Africa
+Gabon,GA,Gabon,Sub-Saharan Africa,Gabon,Africa
+Gambia,GM,Gambia,Sub-Saharan Africa,"Gambia, The",Africa
+Ghana,GH,Ghana,Sub-Saharan Africa,Ghana,Africa
+Guinea,GN,Guinea,Sub-Saharan Africa,Guinea,Africa
+Kenya,KE,Kenya,Sub-Saharan Africa,Kenya,Africa
+Lesotho,LS,Lesotho,Sub-Saharan Africa,Lesotho,Africa
+Malawi,MW,Malawi,Sub-Saharan Africa,Malawi,Africa
+Mali,ML,Mali,Sub-Saharan Africa,Mali,Africa
+Mauritania,MR,Mauritania,Sub-Saharan Africa,Mauritania,Arab States
+Mauritius,MU,Mauritius,Sub-Saharan Africa,Mauritius,Africa
+Nigeria,NG,Nigeria,Sub-Saharan Africa,Nigeria,Africa
+Rwanda,RW,Rwanda,Sub-Saharan Africa,Rwanda,Africa
+Senegal,SN,Senegal,Sub-Saharan Africa,Senegal,Africa
+Togo,TG,Togo,Sub-Saharan Africa,Togo,Africa
+United Republic of Tanzania,TZ,United Republic of Tanzania,Sub-Saharan Africa,Tanzania,Africa
+Zimbabwe,ZW,Zimbabwe,Sub-Saharan Africa,Zimbabwe,Africa
